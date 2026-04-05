@@ -1,0 +1,6223 @@
+#M-1 & #M-2 - ran from mcs_model1
+How many rounds?500000
+force the hero to draw a card? enter here: A
+How many times do you want to run the entire thing?10
+
+Presets: A player draws two hold hand, both of which hearts. The player has an opponent. There are exactly three hearts on the community board.
+
+Running 10 times......
+
+======================
+
+--Run #1--
+A total of 500000 rounds of cards were drawn.
+There are 279694 no-paired board, that is 55.9388%.
+There are 202120 single-paired board, that is 40.424%.
+There are 18186 two-paired board, that is 3.6372%.
+There are 5894 board trips, that is 1.1788%.
+---Admist those rounds, opponents drew---
+521 quads.
+14154 flushes.
+-> admist those, hero wins 14154, opponent wins 0.
+1812 set full houses.
+5665 full houses
+3976 sets
+You win 492002 rounds.
+----Rates----
+Opponent full house rate: 1.133%.
+Opponent set full house rate: 0.3624%.
+Opponent quads rate: 0.1042%.
+Opponent flush rate: 2.8308%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 98.4004%.
+
+
+======================
+
+--Run #2--
+A total of 500000 rounds of cards were drawn.
+There are 279237 no-paired board, that is 55.8474%.
+There are 202631 single-paired board, that is 40.5262%.
+There are 18132 two-paired board, that is 3.6264%.
+There are 6017 board trips, that is 1.2034%.
+---Admist those rounds, opponents drew---
+473 quads.
+14140 flushes.
+-> admist those, hero wins 14140, opponent wins 0.
+1816 set full houses.
+5638 full houses
+4016 sets
+You win 492073 rounds.
+----Rates----
+Opponent full house rate: 1.1276%.
+Opponent set full house rate: 0.36319999999999997%.
+Opponent quads rate: 0.0946%.
+Opponent flush rate: 2.828%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 98.4146%.
+
+
+======================
+
+--Run #3--
+A total of 500000 rounds of cards were drawn.
+There are 279945 no-paired board, that is 55.989%.
+There are 201752 single-paired board, that is 40.3504%.
+There are 18303 two-paired board, that is 3.6606%.
+There are 5979 board trips, that is 1.1958%.
+---Admist those rounds, opponents drew---
+507 quads.
+14161 flushes.
+-> admist those, hero wins 14161, opponent wins 0.
+1823 set full houses.
+5633 full houses
+3933 sets
+You win 492037 rounds.
+----Rates----
+Opponent full house rate: 1.1266%.
+Opponent set full house rate: 0.3646%.
+Opponent quads rate: 0.10139999999999999%.
+Opponent flush rate: 2.8322%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 98.4074%.
+
+
+======================
+
+--Run #4--
+A total of 500000 rounds of cards were drawn.
+There are 279486 no-paired board, that is 55.8972%.
+There are 202455 single-paired board, that is 40.491%.
+There are 18059 two-paired board, that is 3.6118%.
+There are 5811 board trips, that is 1.1622%.
+---Admist those rounds, opponents drew---
+511 quads.
+14203 flushes.
+-> admist those, hero wins 14203, opponent wins 0.
+1844 set full houses.
+5525 full houses
+4037 sets
+You win 492120 rounds.
+----Rates----
+Opponent full house rate: 1.105%.
+Opponent set full house rate: 0.36879999999999996%.
+Opponent quads rate: 0.10219999999999999%.
+Opponent flush rate: 2.8406000000000002%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 98.424%.
+
+
+======================
+
+--Run #5--
+A total of 500000 rounds of cards were drawn.
+There are 279691 no-paired board, that is 55.9382%.
+There are 201957 single-paired board, that is 40.3914%.
+There are 18352 two-paired board, that is 3.6704%.
+There are 5888 board trips, that is 1.1776%.
+---Admist those rounds, opponents drew---
+471 quads.
+14277 flushes.
+-> admist those, hero wins 14277, opponent wins 0.
+1780 set full houses.
+5667 full houses
+3953 sets
+You win 492082 rounds.
+----Rates----
+Opponent full house rate: 1.1334%.
+Opponent set full house rate: 0.356%.
+Opponent quads rate: 0.0942%.
+Opponent flush rate: 2.8554%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 98.41640000000001%.
+
+
+======================
+
+--Run #6--
+A total of 500000 rounds of cards were drawn.
+There are 280156 no-paired board, that is 56.0312%.
+There are 201910 single-paired board, that is 40.382%.
+There are 17934 two-paired board, that is 3.5868%.
+There are 5949 board trips, that is 1.1898%.
+---Admist those rounds, opponents drew---
+520 quads.
+14205 flushes.
+-> admist those, hero wins 14205, opponent wins 0.
+1887 set full houses.
+5585 full houses
+3937 sets
+You win 492008 rounds.
+----Rates----
+Opponent full house rate: 1.117%.
+Opponent set full house rate: 0.3774%.
+Opponent quads rate: 0.104%.
+Opponent flush rate: 2.841%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 98.4016%.
+
+
+======================
+
+--Run #7--
+A total of 500000 rounds of cards were drawn.
+There are 280167 no-paired board, that is 56.0334%.
+There are 201734 single-paired board, that is 40.3468%.
+There are 18099 two-paired board, that is 3.6198%.
+There are 5923 board trips, that is 1.1846%.
+---Admist those rounds, opponents drew---
+477 quads.
+14195 flushes.
+-> admist those, hero wins 14195, opponent wins 0.
+1789 set full houses.
+5558 full houses
+3953 sets
+You win 492176 rounds.
+----Rates----
+Opponent full house rate: 1.1116%.
+Opponent set full house rate: 0.3578%.
+Opponent quads rate: 0.0954%.
+Opponent flush rate: 2.839%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 98.4352%.
+
+
+======================
+
+--Run #8--
+A total of 500000 rounds of cards were drawn.
+There are 279337 no-paired board, that is 55.8674%.
+There are 202448 single-paired board, that is 40.4896%.
+There are 18215 two-paired board, that is 3.643%.
+There are 5922 board trips, that is 1.1844%.
+---Admist those rounds, opponents drew---
+501 quads.
+14125 flushes.
+-> admist those, hero wins 14125, opponent wins 0.
+1903 set full houses.
+5667 full houses
+3782 sets
+You win 491929 rounds.
+----Rates----
+Opponent full house rate: 1.1334%.
+Opponent set full house rate: 0.3806%.
+Opponent quads rate: 0.10020000000000001%.
+Opponent flush rate: 2.825%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 98.3858%.
+
+
+======================
+
+--Run #9--
+A total of 500000 rounds of cards were drawn.
+There are 280467 no-paired board, that is 56.0934%.
+There are 201376 single-paired board, that is 40.2752%.
+There are 18157 two-paired board, that is 3.6314%.
+There are 6009 board trips, that is 1.2018%.
+---Admist those rounds, opponents drew---
+473 quads.
+14062 flushes.
+-> admist those, hero wins 14062, opponent wins 0.
+1775 set full houses.
+5591 full houses
+4141 sets
+You win 492161 rounds.
+----Rates----
+Opponent full house rate: 1.1181999999999999%.
+Opponent set full house rate: 0.35500000000000004%.
+Opponent quads rate: 0.0946%.
+Opponent flush rate: 2.8124%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 98.43220000000001%.
+
+
+======================
+
+--Run #10--
+A total of 500000 rounds of cards were drawn.
+There are 279410 no-paired board, that is 55.882%.
+There are 202302 single-paired board, that is 40.4604%.
+There are 18288 two-paired board, that is 3.6576%.
+There are 5836 board trips, that is 1.1672%.
+---Admist those rounds, opponents drew---
+516 quads.
+14240 flushes.
+-> admist those, hero wins 14240, opponent wins 0.
+1891 set full houses.
+5681 full houses
+3935 sets
+You win 491912 rounds.
+----Rates----
+Opponent full house rate: 1.1362%.
+Opponent set full house rate: 0.37820000000000004%.
+Opponent quads rate: 0.10319999999999999%.
+Opponent flush rate: 2.848%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 98.3824%.
+
+-----over-----
+
+....................................................................
+====================================================================
+....................................................................
+====================================================================
+
+#M-3 & #M-4 - ran from mcs_model2
+how many rounds? 500000
+force the hero to draw a card? enter here: A
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272971 no-paired board, that is 54.5942%.
+There are 202823 single-paired board, that is 40.5646%.
+There are 18049 two-paired board, that is 3.6098%.
+There are 6157 board trips, that is 1.2314%.
+---Admist those rounds, opponents drew---
+515 quads.
+10331 full houses
+14090 flushes.
+-> admist those, hero wins 14090, opponent wins 0.
+You win 489154 rounds.
+----Rates----
+Opponent full house rate: 2.0662%.
+Opponent quads rate: 0.10300000000000001%.
+Opponent flush rate: 2.818%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 97.8308%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273813 no-paired board, that is 54.7626%.
+There are 202048 single-paired board, that is 40.4096%.
+There are 18176 two-paired board, that is 3.6352%.
+There are 5963 board trips, that is 1.1926%.
+---Admist those rounds, opponents drew---
+517 quads.
+10093 full houses
+14217 flushes.
+-> admist those, hero wins 14217, opponent wins 0.
+You win 489390 rounds.
+----Rates----
+Opponent full house rate: 2.0185999999999997%.
+Opponent quads rate: 0.10339999999999999%.
+Opponent flush rate: 2.8434%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 97.878%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273400 no-paired board, that is 54.68%.
+There are 202138 single-paired board, that is 40.4276%.
+There are 18358 two-paired board, that is 3.6716%.
+There are 6104 board trips, that is 1.2208%.
+---Admist those rounds, opponents drew---
+554 quads.
+10260 full houses
+13872 flushes.
+-> admist those, hero wins 13872, opponent wins 0.
+You win 489186 rounds.
+----Rates----
+Opponent full house rate: 2.052%.
+Opponent quads rate: 0.11080000000000001%.
+Opponent flush rate: 2.7744%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 97.8372%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273120 no-paired board, that is 54.624%.
+There are 202519 single-paired board, that is 40.5038%.
+There are 18228 two-paired board, that is 3.6456%.
+There are 6133 board trips, that is 1.2266%.
+---Admist those rounds, opponents drew---
+534 quads.
+10066 full houses
+14193 flushes.
+-> admist those, hero wins 14193, opponent wins 0.
+You win 489400 rounds.
+----Rates----
+Opponent full house rate: 2.0132%.
+Opponent quads rate: 0.10679999999999999%.
+Opponent flush rate: 2.8386%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 97.88%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273357 no-paired board, that is 54.6714%.
+There are 202534 single-paired board, that is 40.5068%.
+There are 18058 two-paired board, that is 3.6116%.
+There are 6051 board trips, that is 1.2102%.
+---Admist those rounds, opponents drew---
+488 quads.
+10309 full houses
+14066 flushes.
+-> admist those, hero wins 14066, opponent wins 0.
+You win 489203 rounds.
+----Rates----
+Opponent full house rate: 2.0618000000000003%.
+Opponent quads rate: 0.09759999999999999%.
+Opponent flush rate: 2.8132%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 97.8406%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273713 no-paired board, that is 54.7426%.
+There are 201829 single-paired board, that is 40.3658%.
+There are 18313 two-paired board, that is 3.6626%.
+There are 6145 board trips, that is 1.229%.
+---Admist those rounds, opponents drew---
+494 quads.
+10211 full houses
+14007 flushes.
+-> admist those, hero wins 14007, opponent wins 0.
+You win 489295 rounds.
+----Rates----
+Opponent full house rate: 2.0422%.
+Opponent quads rate: 0.0988%.
+Opponent flush rate: 2.8014%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 97.859%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273918 no-paired board, that is 54.7836%.
+There are 202011 single-paired board, that is 40.4022%.
+There are 18043 two-paired board, that is 3.6086%.
+There are 6028 board trips, that is 1.2056%.
+---Admist those rounds, opponents drew---
+511 quads.
+10315 full houses
+14145 flushes.
+-> admist those, hero wins 14145, opponent wins 0.
+You win 489174 rounds.
+----Rates----
+Opponent full house rate: 2.0629999999999997%.
+Opponent quads rate: 0.10219999999999999%.
+Opponent flush rate: 2.8289999999999997%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 97.8348%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273014 no-paired board, that is 54.6028%.
+There are 202803 single-paired board, that is 40.5606%.
+There are 18140 two-paired board, that is 3.628%.
+There are 6043 board trips, that is 1.2086%.
+---Admist those rounds, opponents drew---
+526 quads.
+10222 full houses
+14203 flushes.
+-> admist those, hero wins 14203, opponent wins 0.
+You win 489252 rounds.
+----Rates----
+Opponent full house rate: 2.0444%.
+Opponent quads rate: 0.1052%.
+Opponent flush rate: 2.8406000000000002%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 97.85040000000001%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273191 no-paired board, that is 54.6382%.
+There are 202454 single-paired board, that is 40.4908%.
+There are 18297 two-paired board, that is 3.6594%.
+There are 6058 board trips, that is 1.2116%.
+---Admist those rounds, opponents drew---
+486 quads.
+10278 full houses
+14113 flushes.
+-> admist those, hero wins 14113, opponent wins 0.
+You win 489236 rounds.
+----Rates----
+Opponent full house rate: 2.0556%.
+Opponent quads rate: 0.0972%.
+Opponent flush rate: 2.8226%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 97.8472%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272996 no-paired board, that is 54.5992%.
+There are 202603 single-paired board, that is 40.5206%.
+There are 18259 two-paired board, that is 3.6518%.
+There are 6142 board trips, that is 1.2284%.
+---Admist those rounds, opponents drew---
+511 quads.
+9803 full houses
+14049 flushes.
+-> admist those, hero wins 14049, opponent wins 0.
+You win 489686 rounds.
+----Rates----
+Opponent full house rate: 1.9606%.
+Opponent quads rate: 0.10219999999999999%.
+Opponent flush rate: 2.8098%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 97.9372%.
+
+-----over-----
+....................................................................
+====================================================================
+....................................................................
+====================================================================
+#M-5-K - ran from mcs_model2
+how many rounds? 500000
+force the hero to draw a card? enter here: K
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273295 no-paired board, that is 54.659%.
+There are 202366 single-paired board, that is 40.4732%.
+There are 18249 two-paired board, that is 3.6498%.
+There are 6090 board trips, that is 1.218%.
+---Admist those rounds, opponents drew---
+524 quads.
+10393 full houses
+14157 flushes.
+-> admist those, hero wins 11529, opponent wins 2628.
+You win 486455 rounds.
+----Rates----
+Opponent full house rate: 2.0786%.
+Opponent quads rate: 0.1048%.
+Opponent flush rate: 2.8314%.
+When opponent has flush, My flush_and_win rate: 81.43674507310871%
+Total win rate: 97.29100000000001%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272846 no-paired board, that is 54.5692%.
+There are 202717 single-paired board, that is 40.5434%.
+There are 18346 two-paired board, that is 3.6692%.
+There are 6091 board trips, that is 1.2182%.
+---Admist those rounds, opponents drew---
+522 quads.
+10524 full houses
+14146 flushes.
+-> admist those, hero wins 11503, opponent wins 2643.
+You win 486311 rounds.
+----Rates----
+Opponent full house rate: 2.1048%.
+Opponent quads rate: 0.1044%.
+Opponent flush rate: 2.8292%.
+When opponent has flush, My flush_and_win rate: 81.31627315142089%
+Total win rate: 97.26219999999999%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272942 no-paired board, that is 54.5884%.
+There are 203121 single-paired board, that is 40.6242%.
+There are 17957 two-paired board, that is 3.5914%.
+There are 5980 board trips, that is 1.196%.
+---Admist those rounds, opponents drew---
+504 quads.
+10220 full houses
+14171 flushes.
+-> admist those, hero wins 11604, opponent wins 2567.
+You win 486709 rounds.
+----Rates----
+Opponent full house rate: 2.044%.
+Opponent quads rate: 0.1008%.
+Opponent flush rate: 2.8342%.
+When opponent has flush, My flush_and_win rate: 81.88554089337379%
+Total win rate: 97.3418%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272397 no-paired board, that is 54.4794%.
+There are 203297 single-paired board, that is 40.6594%.
+There are 18151 two-paired board, that is 3.6302%.
+There are 6155 board trips, that is 1.231%.
+---Admist those rounds, opponents drew---
+483 quads.
+10449 full houses
+14152 flushes.
+-> admist those, hero wins 11662, opponent wins 2490.
+You win 486578 rounds.
+----Rates----
+Opponent full house rate: 2.0898%.
+Opponent quads rate: 0.09659999999999999%.
+Opponent flush rate: 2.8304%.
+When opponent has flush, My flush_and_win rate: 82.40531373657434%
+Total win rate: 97.3156%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273109 no-paired board, that is 54.6218%.
+There are 202773 single-paired board, that is 40.5546%.
+There are 18109 two-paired board, that is 3.6218%.
+There are 6009 board trips, that is 1.2018%.
+---Admist those rounds, opponents drew---
+525 quads.
+10332 full houses
+14290 flushes.
+-> admist those, hero wins 11708, opponent wins 2582.
+You win 486561 rounds.
+----Rates----
+Opponent full house rate: 2.0664%.
+Opponent quads rate: 0.105%.
+Opponent flush rate: 2.858%.
+When opponent has flush, My flush_and_win rate: 81.93142057382785%
+Total win rate: 97.3122%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273280 no-paired board, that is 54.656%.
+There are 202302 single-paired board, that is 40.4604%.
+There are 18340 two-paired board, that is 3.668%.
+There are 6078 board trips, that is 1.2156%.
+---Admist those rounds, opponents drew---
+480 quads.
+10264 full houses
+14287 flushes.
+-> admist those, hero wins 11759, opponent wins 2528.
+You win 486728 rounds.
+----Rates----
+Opponent full house rate: 2.0528%.
+Opponent quads rate: 0.096%.
+Opponent flush rate: 2.8573999999999997%.
+When opponent has flush, My flush_and_win rate: 82.30559249667529%
+Total win rate: 97.3456%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273803 no-paired board, that is 54.7606%.
+There are 201737 single-paired board, that is 40.3474%.
+There are 18447 two-paired board, that is 3.6894%.
+There are 6013 board trips, that is 1.2026%.
+---Admist those rounds, opponents drew---
+530 quads.
+10287 full houses
+14300 flushes.
+-> admist those, hero wins 11686, opponent wins 2614.
+You win 486569 rounds.
+----Rates----
+Opponent full house rate: 2.0574%.
+Opponent quads rate: 0.106%.
+Opponent flush rate: 2.86%.
+When opponent has flush, My flush_and_win rate: 81.72027972027972%
+Total win rate: 97.3138%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272558 no-paired board, that is 54.5116%.
+There are 202972 single-paired board, that is 40.5944%.
+There are 18370 two-paired board, that is 3.674%.
+There are 6100 board trips, that is 1.22%.
+---Admist those rounds, opponents drew---
+513 quads.
+10535 full houses
+14031 flushes.
+-> admist those, hero wins 11402, opponent wins 2629.
+You win 486323 rounds.
+----Rates----
+Opponent full house rate: 2.1069999999999998%.
+Opponent quads rate: 0.1026%.
+Opponent flush rate: 2.8062%.
+When opponent has flush, My flush_and_win rate: 81.26291782481648%
+Total win rate: 97.2646%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272791 no-paired board, that is 54.5582%.
+There are 202833 single-paired board, that is 40.5666%.
+There are 18246 two-paired board, that is 3.6492%.
+There are 6130 board trips, that is 1.226%.
+---Admist those rounds, opponents drew---
+485 quads.
+10537 full houses
+14372 flushes.
+-> admist those, hero wins 11679, opponent wins 2693.
+You win 486285 rounds.
+----Rates----
+Opponent full house rate: 2.1073999999999997%.
+Opponent quads rate: 0.097%.
+Opponent flush rate: 2.8744%.
+When opponent has flush, My flush_and_win rate: 81.26217645421653%
+Total win rate: 97.257%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273145 no-paired board, that is 54.629%.
+There are 202797 single-paired board, that is 40.5594%.
+There are 18022 two-paired board, that is 3.6044%.
+There are 6036 board trips, that is 1.2072%.
+---Admist those rounds, opponents drew---
+500 quads.
+10356 full houses
+14158 flushes.
+-> admist those, hero wins 11567, opponent wins 2591.
+You win 486553 rounds.
+----Rates----
+Opponent full house rate: 2.0712%.
+Opponent quads rate: 0.1%.
+Opponent flush rate: 2.8316%.
+When opponent has flush, My flush_and_win rate: 81.69939256957197%
+Total win rate: 97.31060000000001%.
+
+-----over-----
+
+....................................................................
+====================================================================
+....................................................................
+====================================================================
+#M-5-Q - ran from mcs_model2
+how many rounds? 500000
+force the hero to draw a card? enter here: Q
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273001 no-paired board, that is 54.6002%.
+There are 202814 single-paired board, that is 40.5628%.
+There are 18176 two-paired board, that is 3.6352%.
+There are 6009 board trips, that is 1.2018%.
+---Admist those rounds, opponents drew---
+491 quads.
+10308 full houses
+14133 flushes.
+-> admist those, hero wins 9239, opponent wins 4894.
+You win 484307 rounds.
+----Rates----
+Opponent full house rate: 2.0616%.
+Opponent quads rate: 0.0982%.
+Opponent flush rate: 2.8266%.
+When opponent has flush, My flush_and_win rate: 65.37182480718884%
+Total win rate: 96.8614%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273700 no-paired board, that is 54.74%.
+There are 202236 single-paired board, that is 40.4472%.
+There are 17944 two-paired board, that is 3.5888%.
+There are 6120 board trips, that is 1.224%.
+---Admist those rounds, opponents drew---
+533 quads.
+10302 full houses
+14069 flushes.
+-> admist those, hero wins 9252, opponent wins 4817.
+You win 484348 rounds.
+----Rates----
+Opponent full house rate: 2.0604%.
+Opponent quads rate: 0.10660000000000001%.
+Opponent flush rate: 2.8138%.
+When opponent has flush, My flush_and_win rate: 65.76160352548156%
+Total win rate: 96.8696%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 274036 no-paired board, that is 54.8072%.
+There are 202002 single-paired board, that is 40.4004%.
+There are 18039 two-paired board, that is 3.6078%.
+There are 5923 board trips, that is 1.1846%.
+---Admist those rounds, opponents drew---
+509 quads.
+10297 full houses
+14208 flushes.
+-> admist those, hero wins 9302, opponent wins 4906.
+You win 484288 rounds.
+----Rates----
+Opponent full house rate: 2.0594%.
+Opponent quads rate: 0.1018%.
+Opponent flush rate: 2.8416%.
+When opponent has flush, My flush_and_win rate: 65.47015765765765%
+Total win rate: 96.8576%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273659 no-paired board, that is 54.7318%.
+There are 202017 single-paired board, that is 40.4034%.
+There are 18258 two-paired board, that is 3.6516%.
+There are 6066 board trips, that is 1.2132%.
+---Admist those rounds, opponents drew---
+524 quads.
+10264 full houses
+14334 flushes.
+-> admist those, hero wins 9375, opponent wins 4959.
+You win 484253 rounds.
+----Rates----
+Opponent full house rate: 2.0528%.
+Opponent quads rate: 0.1048%.
+Opponent flush rate: 2.8668%.
+When opponent has flush, My flush_and_win rate: 65.4039347007116%
+Total win rate: 96.8506%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273270 no-paired board, that is 54.654%.
+There are 202596 single-paired board, that is 40.5192%.
+There are 18119 two-paired board, that is 3.6238%.
+There are 6015 board trips, that is 1.203%.
+---Admist those rounds, opponents drew---
+522 quads.
+10226 full houses
+14157 flushes.
+-> admist those, hero wins 9227, opponent wins 4930.
+You win 484322 rounds.
+----Rates----
+Opponent full house rate: 2.0452000000000004%.
+Opponent quads rate: 0.1044%.
+Opponent flush rate: 2.8314%.
+When opponent has flush, My flush_and_win rate: 65.17623790351062%
+Total win rate: 96.86439999999999%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273295 no-paired board, that is 54.659%.
+There are 202334 single-paired board, that is 40.4668%.
+There are 18235 two-paired board, that is 3.647%.
+There are 6136 board trips, that is 1.2272%.
+---Admist those rounds, opponents drew---
+538 quads.
+10251 full houses
+14073 flushes.
+-> admist those, hero wins 9210, opponent wins 4863.
+You win 484348 rounds.
+----Rates----
+Opponent full house rate: 2.0502%.
+Opponent quads rate: 0.10759999999999999%.
+Opponent flush rate: 2.8146%.
+When opponent has flush, My flush_and_win rate: 65.44446813046258%
+Total win rate: 96.8696%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273526 no-paired board, that is 54.7052%.
+There are 202241 single-paired board, that is 40.4482%.
+There are 18159 two-paired board, that is 3.6318%.
+There are 6074 board trips, that is 1.2148%.
+---Admist those rounds, opponents drew---
+496 quads.
+10301 full houses
+14038 flushes.
+-> admist those, hero wins 9242, opponent wins 4796.
+You win 484407 rounds.
+----Rates----
+Opponent full house rate: 2.0602%.
+Opponent quads rate: 0.09920000000000001%.
+Opponent flush rate: 2.8076%.
+When opponent has flush, My flush_and_win rate: 65.83558911525859%
+Total win rate: 96.8814%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272978 no-paired board, that is 54.5956%.
+There are 202932 single-paired board, that is 40.5864%.
+There are 18106 two-paired board, that is 3.6212%.
+There are 5984 board trips, that is 1.1968%.
+---Admist those rounds, opponents drew---
+447 quads.
+10096 full houses
+14066 flushes.
+-> admist those, hero wins 9166, opponent wins 4900.
+You win 484557 rounds.
+----Rates----
+Opponent full house rate: 2.0192%.
+Opponent quads rate: 0.08940000000000001%.
+Opponent flush rate: 2.8132%.
+When opponent has flush, My flush_and_win rate: 65.1642257926916%
+Total win rate: 96.9114%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273351 no-paired board, that is 54.6702%.
+There are 202149 single-paired board, that is 40.4298%.
+There are 18339 two-paired board, that is 3.6678%.
+There are 6161 board trips, that is 1.2322%.
+---Admist those rounds, opponents drew---
+498 quads.
+10234 full houses
+14297 flushes.
+-> admist those, hero wins 9343, opponent wins 4954.
+You win 484314 rounds.
+----Rates----
+Opponent full house rate: 2.0468%.
+Opponent quads rate: 0.0996%.
+Opponent flush rate: 2.8594%.
+When opponent has flush, My flush_and_win rate: 65.34937399454431%
+Total win rate: 96.86280000000001%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273031 no-paired board, that is 54.6062%.
+There are 202595 single-paired board, that is 40.519%.
+There are 18274 two-paired board, that is 3.6548%.
+There are 6100 board trips, that is 1.22%.
+---Admist those rounds, opponents drew---
+505 quads.
+10354 full houses
+14045 flushes.
+-> admist those, hero wins 9168, opponent wins 4877.
+You win 484264 rounds.
+----Rates----
+Opponent full house rate: 2.0708%.
+Opponent quads rate: 0.101%.
+Opponent flush rate: 2.809%.
+When opponent has flush, My flush_and_win rate: 65.27589889640441%
+Total win rate: 96.85279999999999%.
+
+-----over-----
+....................................................................
+====================================================================
+....................................................................
+====================================================================
+#M-5-J
+how many rounds? 500000
+force the hero to draw a card? enter here: J
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272773 no-paired board, that is 54.5546%.
+There are 203000 single-paired board, that is 40.6%.
+There are 18097 two-paired board, that is 3.6194%.
+There are 6130 board trips, that is 1.226%.
+---Admist those rounds, opponents drew---
+504 quads.
+10204 full houses
+14109 flushes.
+-> admist those, hero wins 7261, opponent wins 6848.
+You win 482444 rounds.
+----Rates----
+Opponent full house rate: 2.0408%.
+Opponent quads rate: 0.1008%.
+Opponent flush rate: 2.8218%.
+When opponent has flush, My flush_and_win rate: 51.46360479126798%
+Total win rate: 96.4888%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272756 no-paired board, that is 54.5512%.
+There are 203239 single-paired board, that is 40.6478%.
+There are 17928 two-paired board, that is 3.5856%.
+There are 6077 board trips, that is 1.2154%.
+---Admist those rounds, opponents drew---
+483 quads.
+10386 full houses
+14378 flushes.
+-> admist those, hero wins 7288, opponent wins 7090.
+You win 482041 rounds.
+----Rates----
+Opponent full house rate: 2.0772%.
+Opponent quads rate: 0.09659999999999999%.
+Opponent flush rate: 2.8756%.
+When opponent has flush, My flush_and_win rate: 50.68855195437474%
+Total win rate: 96.4082%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273087 no-paired board, that is 54.6174%.
+There are 202750 single-paired board, that is 40.55%.
+There are 18179 two-paired board, that is 3.6358%.
+There are 5984 board trips, that is 1.1968%.
+---Admist those rounds, opponents drew---
+485 quads.
+10309 full houses
+14248 flushes.
+-> admist those, hero wins 7200, opponent wins 7048.
+You win 482158 rounds.
+----Rates----
+Opponent full house rate: 2.0618000000000003%.
+Opponent quads rate: 0.097%.
+Opponent flush rate: 2.8496%.
+When opponent has flush, My flush_and_win rate: 50.53340819764177%
+Total win rate: 96.43159999999999%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272814 no-paired board, that is 54.5628%.
+There are 202597 single-paired board, that is 40.5194%.
+There are 18389 two-paired board, that is 3.6778%.
+There are 6200 board trips, that is 1.24%.
+---Admist those rounds, opponents drew---
+486 quads.
+10488 full houses
+14019 flushes.
+-> admist those, hero wins 7039, opponent wins 6980.
+You win 482046 rounds.
+----Rates----
+Opponent full house rate: 2.0976000000000004%.
+Opponent quads rate: 0.0972%.
+Opponent flush rate: 2.8038%.
+When opponent has flush, My flush_and_win rate: 50.21042870390184%
+Total win rate: 96.4092%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273306 no-paired board, that is 54.6612%.
+There are 202442 single-paired board, that is 40.4884%.
+There are 18172 two-paired board, that is 3.6344%.
+There are 6080 board trips, that is 1.216%.
+---Admist those rounds, opponents drew---
+515 quads.
+10273 full houses
+14134 flushes.
+-> admist those, hero wins 7224, opponent wins 6910.
+You win 482302 rounds.
+----Rates----
+Opponent full house rate: 2.0545999999999998%.
+Opponent quads rate: 0.10300000000000001%.
+Opponent flush rate: 2.8268%.
+When opponent has flush, My flush_and_win rate: 51.11079666053489%
+Total win rate: 96.4604%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273147 no-paired board, that is 54.6294%.
+There are 202564 single-paired board, that is 40.5128%.
+There are 18271 two-paired board, that is 3.6542%.
+There are 6018 board trips, that is 1.2036%.
+---Admist those rounds, opponents drew---
+525 quads.
+10392 full houses
+13932 flushes.
+-> admist those, hero wins 7120, opponent wins 6812.
+You win 482271 rounds.
+----Rates----
+Opponent full house rate: 2.0784000000000002%.
+Opponent quads rate: 0.105%.
+Opponent flush rate: 2.7864%.
+When opponent has flush, My flush_and_win rate: 51.1053689348263%
+Total win rate: 96.4542%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273178 no-paired board, that is 54.6356%.
+There are 202358 single-paired board, that is 40.4716%.
+There are 18317 two-paired board, that is 3.6634%.
+There are 6147 board trips, that is 1.2294%.
+---Admist those rounds, opponents drew---
+480 quads.
+10391 full houses
+14358 flushes.
+-> admist those, hero wins 7401, opponent wins 6957.
+You win 482172 rounds.
+----Rates----
+Opponent full house rate: 2.0782%.
+Opponent quads rate: 0.096%.
+Opponent flush rate: 2.8716%.
+When opponent has flush, My flush_and_win rate: 51.54617634768074%
+Total win rate: 96.4344%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273591 no-paired board, that is 54.7182%.
+There are 202186 single-paired board, that is 40.4372%.
+There are 18079 two-paired board, that is 3.6158%.
+There are 6144 board trips, that is 1.2288%.
+---Admist those rounds, opponents drew---
+529 quads.
+10453 full houses
+14166 flushes.
+-> admist those, hero wins 7152, opponent wins 7014.
+You win 482004 rounds.
+----Rates----
+Opponent full house rate: 2.0906000000000002%.
+Opponent quads rate: 0.10579999999999999%.
+Opponent flush rate: 2.8332%.
+When opponent has flush, My flush_and_win rate: 50.487081745023296%
+Total win rate: 96.4008%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273703 no-paired board, that is 54.7406%.
+There are 201957 single-paired board, that is 40.3914%.
+There are 18221 two-paired board, that is 3.6442%.
+There are 6119 board trips, that is 1.2238%.
+---Admist those rounds, opponents drew---
+500 quads.
+10330 full houses
+14179 flushes.
+-> admist those, hero wins 7253, opponent wins 6926.
+You win 482244 rounds.
+----Rates----
+Opponent full house rate: 2.0660000000000003%.
+Opponent quads rate: 0.1%.
+Opponent flush rate: 2.8358000000000003%.
+When opponent has flush, My flush_and_win rate: 51.1531137597856%
+Total win rate: 96.4488%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273023 no-paired board, that is 54.6046%.
+There are 202568 single-paired board, that is 40.5136%.
+There are 18345 two-paired board, that is 3.669%.
+There are 6064 board trips, that is 1.2128%.
+---Admist those rounds, opponents drew---
+504 quads.
+10308 full houses
+14115 flushes.
+-> admist those, hero wins 7130, opponent wins 6985.
+You win 482203 rounds.
+----Rates----
+Opponent full house rate: 2.0616%.
+Opponent quads rate: 0.1008%.
+Opponent flush rate: 2.823%.
+When opponent has flush, My flush_and_win rate: 50.51363797378675%
+Total win rate: 96.4406%.
+
+-----over-----
+....................................................................
+====================================================================
+....................................................................
+====================================================================
+#M-5-10
+how many rounds? 500000
+force the hero to draw a card? enter here: 10
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273488 no-paired board, that is 54.6976%.
+There are 202172 single-paired board, that is 40.4344%.
+There are 18314 two-paired board, that is 3.6628%.
+There are 6026 board trips, that is 1.2052%.
+---Admist those rounds, opponents drew---
+496 quads.
+10254 full houses
+14082 flushes.
+-> admist those, hero wins 5352, opponent wins 8730.
+You win 480520 rounds.
+----Rates----
+Opponent full house rate: 2.0507999999999997%.
+Opponent quads rate: 0.09920000000000001%.
+Opponent flush rate: 2.8164000000000002%.
+When opponent has flush, My flush_and_win rate: 38.005965061781%
+Total win rate: 96.104%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273409 no-paired board, that is 54.6818%.
+There are 202176 single-paired board, that is 40.4352%.
+There are 18277 two-paired board, that is 3.6554%.
+There are 6138 board trips, that is 1.2276%.
+---Admist those rounds, opponents drew---
+529 quads.
+10113 full houses
+14198 flushes.
+-> admist those, hero wins 5449, opponent wins 8749.
+You win 480609 rounds.
+----Rates----
+Opponent full house rate: 2.0226%.
+Opponent quads rate: 0.10579999999999999%.
+Opponent flush rate: 2.8396%.
+When opponent has flush, My flush_and_win rate: 38.378644879560504%
+Total win rate: 96.12180000000001%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273320 no-paired board, that is 54.664%.
+There are 202156 single-paired board, that is 40.4312%.
+There are 18344 two-paired board, that is 3.6688%.
+There are 6180 board trips, that is 1.236%.
+---Admist those rounds, opponents drew---
+533 quads.
+10432 full houses
+14224 flushes.
+-> admist those, hero wins 5460, opponent wins 8764.
+You win 480271 rounds.
+----Rates----
+Opponent full house rate: 2.0864000000000003%.
+Opponent quads rate: 0.10660000000000001%.
+Opponent flush rate: 2.8448%.
+When opponent has flush, My flush_and_win rate: 38.38582677165354%
+Total win rate: 96.0542%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273221 no-paired board, that is 54.6442%.
+There are 202266 single-paired board, that is 40.4532%.
+There are 18328 two-paired board, that is 3.6656%.
+There are 6185 board trips, that is 1.237%.
+---Admist those rounds, opponents drew---
+554 quads.
+10373 full houses
+14191 flushes.
+-> admist those, hero wins 5450, opponent wins 8741.
+You win 480332 rounds.
+----Rates----
+Opponent full house rate: 2.0746%.
+Opponent quads rate: 0.11080000000000001%.
+Opponent flush rate: 2.8382%.
+When opponent has flush, My flush_and_win rate: 38.404622648157286%
+Total win rate: 96.0664%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273404 no-paired board, that is 54.6808%.
+There are 202514 single-paired board, that is 40.5028%.
+There are 18106 two-paired board, that is 3.6212%.
+There are 5976 board trips, that is 1.1952%.
+---Admist those rounds, opponents drew---
+534 quads.
+10267 full houses
+13893 flushes.
+-> admist those, hero wins 5440, opponent wins 8453.
+You win 480746 rounds.
+----Rates----
+Opponent full house rate: 2.0534%.
+Opponent quads rate: 0.10679999999999999%.
+Opponent flush rate: 2.7786%.
+When opponent has flush, My flush_and_win rate: 39.15640970272799%
+Total win rate: 96.14920000000001%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273225 no-paired board, that is 54.645%.
+There are 202563 single-paired board, that is 40.5126%.
+There are 18223 two-paired board, that is 3.6446%.
+There are 5989 board trips, that is 1.1978%.
+---Admist those rounds, opponents drew---
+514 quads.
+10305 full houses
+14157 flushes.
+-> admist those, hero wins 5347, opponent wins 8810.
+You win 480371 rounds.
+----Rates----
+Opponent full house rate: 2.061%.
+Opponent quads rate: 0.1028%.
+Opponent flush rate: 2.8314%.
+When opponent has flush, My flush_and_win rate: 37.76930140566504%
+Total win rate: 96.0742%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272491 no-paired board, that is 54.4982%.
+There are 203178 single-paired board, that is 40.6356%.
+There are 18380 two-paired board, that is 3.676%.
+There are 5951 board trips, that is 1.1902%.
+---Admist those rounds, opponents drew---
+520 quads.
+10243 full houses
+14149 flushes.
+-> admist those, hero wins 5450, opponent wins 8699.
+You win 480538 rounds.
+----Rates----
+Opponent full house rate: 2.0486%.
+Opponent quads rate: 0.104%.
+Opponent flush rate: 2.8298%.
+When opponent has flush, My flush_and_win rate: 38.51862322425613%
+Total win rate: 96.1076%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273052 no-paired board, that is 54.6104%.
+There are 202705 single-paired board, that is 40.541%.
+There are 18189 two-paired board, that is 3.6378%.
+There are 6054 board trips, that is 1.2108%.
+---Admist those rounds, opponents drew---
+529 quads.
+10380 full houses
+14342 flushes.
+-> admist those, hero wins 5449, opponent wins 8893.
+You win 480198 rounds.
+----Rates----
+Opponent full house rate: 2.076%.
+Opponent quads rate: 0.10579999999999999%.
+Opponent flush rate: 2.8684000000000003%.
+When opponent has flush, My flush_and_win rate: 37.993306372890814%
+Total win rate: 96.03960000000001%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273719 no-paired board, that is 54.7438%.
+There are 202111 single-paired board, that is 40.4222%.
+There are 17935 two-paired board, that is 3.587%.
+There are 6235 board trips, that is 1.247%.
+---Admist those rounds, opponents drew---
+486 quads.
+10353 full houses
+14146 flushes.
+-> admist those, hero wins 5391, opponent wins 8755.
+You win 480406 rounds.
+----Rates----
+Opponent full house rate: 2.0705999999999998%.
+Opponent quads rate: 0.0972%.
+Opponent flush rate: 2.8292%.
+When opponent has flush, My flush_and_win rate: 38.10971299307225%
+Total win rate: 96.0812%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273378 no-paired board, that is 54.6756%.
+There are 202438 single-paired board, that is 40.4876%.
+There are 18078 two-paired board, that is 3.6156%.
+There are 6106 board trips, that is 1.2212%.
+---Admist those rounds, opponents drew---
+520 quads.
+10319 full houses
+14119 flushes.
+-> admist those, hero wins 5334, opponent wins 8785.
+You win 480376 rounds.
+----Rates----
+Opponent full house rate: 2.0638%.
+Opponent quads rate: 0.104%.
+Opponent flush rate: 2.8238%.
+When opponent has flush, My flush_and_win rate: 37.778879524045614%
+Total win rate: 96.07520000000001%.
+
+-----over-----
+....................................................................
+====================================================================
+....................................................................
+====================================================================
+#M-5-9
+how many rounds? 500000
+force the hero to draw a card? enter here: 9
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273174 no-paired board, that is 54.6348%.
+There are 202647 single-paired board, that is 40.5294%.
+There are 18179 two-paired board, that is 3.6358%.
+There are 6000 board trips, that is 1.2%.
+---Admist those rounds, opponents drew---
+486 quads.
+10341 full houses
+14160 flushes.
+-> admist those, hero wins 3898, opponent wins 10262.
+You win 478911 rounds.
+----Rates----
+Opponent full house rate: 2.0682%.
+Opponent quads rate: 0.0972%.
+Opponent flush rate: 2.8320000000000003%.
+When opponent has flush, My flush_and_win rate: 27.52824858757062%
+Total win rate: 95.78219999999999%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272920 no-paired board, that is 54.584%.
+There are 202608 single-paired board, that is 40.5216%.
+There are 18366 two-paired board, that is 3.6732%.
+There are 6106 board trips, that is 1.2212%.
+---Admist those rounds, opponents drew---
+506 quads.
+10327 full houses
+14188 flushes.
+-> admist those, hero wins 3799, opponent wins 10389.
+You win 478778 rounds.
+----Rates----
+Opponent full house rate: 2.0654%.
+Opponent quads rate: 0.10120000000000001%.
+Opponent flush rate: 2.8375999999999997%.
+When opponent has flush, My flush_and_win rate: 26.77614885819002%
+Total win rate: 95.7556%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273387 no-paired board, that is 54.6774%.
+There are 202261 single-paired board, that is 40.4522%.
+There are 18274 two-paired board, that is 3.6548%.
+There are 6078 board trips, that is 1.2156%.
+---Admist those rounds, opponents drew---
+525 quads.
+10238 full houses
+14224 flushes.
+-> admist those, hero wins 3937, opponent wins 10287.
+You win 478950 rounds.
+----Rates----
+Opponent full house rate: 2.0476%.
+Opponent quads rate: 0.105%.
+Opponent flush rate: 2.8448%.
+When opponent has flush, My flush_and_win rate: 27.67857142857143%
+Total win rate: 95.78999999999999%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273269 no-paired board, that is 54.6538%.
+There are 202494 single-paired board, that is 40.4988%.
+There are 18184 two-paired board, that is 3.6368%.
+There are 6053 board trips, that is 1.2106%.
+---Admist those rounds, opponents drew---
+502 quads.
+10068 full houses
+14198 flushes.
+-> admist those, hero wins 3913, opponent wins 10285.
+You win 479145 rounds.
+----Rates----
+Opponent full house rate: 2.0136000000000003%.
+Opponent quads rate: 0.10039999999999999%.
+Opponent flush rate: 2.8396%.
+When opponent has flush, My flush_and_win rate: 27.56021974926046%
+Total win rate: 95.829%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273282 no-paired board, that is 54.6564%.
+There are 202687 single-paired board, that is 40.5374%.
+There are 18014 two-paired board, that is 3.6028%.
+There are 6017 board trips, that is 1.2034%.
+---Admist those rounds, opponents drew---
+532 quads.
+10148 full houses
+14038 flushes.
+-> admist those, hero wins 3773, opponent wins 10265.
+You win 479055 rounds.
+----Rates----
+Opponent full house rate: 2.0296000000000003%.
+Opponent quads rate: 0.10640000000000001%.
+Opponent flush rate: 2.8076%.
+When opponent has flush, My flush_and_win rate: 26.877048012537397%
+Total win rate: 95.811%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272821 no-paired board, that is 54.5642%.
+There are 202936 single-paired board, that is 40.5872%.
+There are 18264 two-paired board, that is 3.6528%.
+There are 5979 board trips, that is 1.1958%.
+---Admist those rounds, opponents drew---
+511 quads.
+10112 full houses
+14338 flushes.
+-> admist those, hero wins 3912, opponent wins 10426.
+You win 478951 rounds.
+----Rates----
+Opponent full house rate: 2.0223999999999998%.
+Opponent quads rate: 0.10219999999999999%.
+Opponent flush rate: 2.8676%.
+When opponent has flush, My flush_and_win rate: 27.28414004742642%
+Total win rate: 95.7902%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273563 no-paired board, that is 54.7126%.
+There are 201906 single-paired board, that is 40.3812%.
+There are 18434 two-paired board, that is 3.6868%.
+There are 6097 board trips, that is 1.2194%.
+---Admist those rounds, opponents drew---
+534 quads.
+10312 full houses
+14283 flushes.
+-> admist those, hero wins 3885, opponent wins 10398.
+You win 478756 rounds.
+----Rates----
+Opponent full house rate: 2.0624%.
+Opponent quads rate: 0.10679999999999999%.
+Opponent flush rate: 2.8566000000000003%.
+When opponent has flush, My flush_and_win rate: 27.200168031926065%
+Total win rate: 95.7512%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273528 no-paired board, that is 54.7056%.
+There are 202180 single-paired board, that is 40.436%.
+There are 18249 two-paired board, that is 3.6498%.
+There are 6043 board trips, that is 1.2086%.
+---Admist those rounds, opponents drew---
+491 quads.
+10411 full houses
+14078 flushes.
+-> admist those, hero wins 3733, opponent wins 10345.
+You win 478753 rounds.
+----Rates----
+Opponent full house rate: 2.0822%.
+Opponent quads rate: 0.0982%.
+Opponent flush rate: 2.8156%.
+When opponent has flush, My flush_and_win rate: 26.516550646398635%
+Total win rate: 95.75059999999999%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273620 no-paired board, that is 54.724%.
+There are 201886 single-paired board, that is 40.3772%.
+There are 18419 two-paired board, that is 3.6838%.
+There are 6075 board trips, that is 1.215%.
+---Admist those rounds, opponents drew---
+512 quads.
+10326 full houses
+14146 flushes.
+-> admist those, hero wins 3890, opponent wins 10256.
+You win 478906 rounds.
+----Rates----
+Opponent full house rate: 2.0652%.
+Opponent quads rate: 0.10239999999999999%.
+Opponent flush rate: 2.8292%.
+When opponent has flush, My flush_and_win rate: 27.49893962957727%
+Total win rate: 95.7812%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273408 no-paired board, that is 54.6816%.
+There are 202654 single-paired board, that is 40.5308%.
+There are 17806 two-paired board, that is 3.5612%.
+There are 6132 board trips, that is 1.2264%.
+---Admist those rounds, opponents drew---
+464 quads.
+10227 full houses
+14216 flushes.
+-> admist those, hero wins 3793, opponent wins 10423.
+You win 478886 rounds.
+----Rates----
+Opponent full house rate: 2.0454%.
+Opponent quads rate: 0.0928%.
+Opponent flush rate: 2.8432%.
+When opponent has flush, My flush_and_win rate: 26.681204276871128%
+Total win rate: 95.7772%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-5-8
+how many rounds? 500000
+force the hero to draw a card? enter here: 8
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272794 no-paired board, that is 54.5588%.
+There are 202549 single-paired board, that is 40.5098%.
+There are 18432 two-paired board, that is 3.6864%.
+There are 6225 board trips, that is 1.245%.
+---Admist those rounds, opponents drew---
+481 quads.
+10455 full houses
+14196 flushes.
+-> admist those, hero wins 2560, opponent wins 11636.
+You win 477428 rounds.
+----Rates----
+Opponent full house rate: 2.091%.
+Opponent quads rate: 0.0962%.
+Opponent flush rate: 2.8392%.
+When opponent has flush, My flush_and_win rate: 18.03324880247957%
+Total win rate: 95.4856%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273424 no-paired board, that is 54.6848%.
+There are 202269 single-paired board, that is 40.4538%.
+There are 18265 two-paired board, that is 3.653%.
+There are 6042 board trips, that is 1.2084%.
+---Admist those rounds, opponents drew---
+500 quads.
+10327 full houses
+13991 flushes.
+-> admist those, hero wins 2508, opponent wins 11483.
+You win 477690 rounds.
+----Rates----
+Opponent full house rate: 2.0654%.
+Opponent quads rate: 0.1%.
+Opponent flush rate: 2.7982%.
+When opponent has flush, My flush_and_win rate: 17.925809448931457%
+Total win rate: 95.538%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273297 no-paired board, that is 54.6594%.
+There are 202487 single-paired board, that is 40.4974%.
+There are 18162 two-paired board, that is 3.6324%.
+There are 6054 board trips, that is 1.2108%.
+---Admist those rounds, opponents drew---
+514 quads.
+10248 full houses
+14234 flushes.
+-> admist those, hero wins 2561, opponent wins 11673.
+You win 477565 rounds.
+----Rates----
+Opponent full house rate: 2.0496%.
+Opponent quads rate: 0.1028%.
+Opponent flush rate: 2.8468%.
+When opponent has flush, My flush_and_win rate: 17.99213151608824%
+Total win rate: 95.513%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273184 no-paired board, that is 54.6368%.
+There are 202476 single-paired board, that is 40.4952%.
+There are 18311 two-paired board, that is 3.6622%.
+There are 6029 board trips, that is 1.2058%.
+---Admist those rounds, opponents drew---
+493 quads.
+10359 full houses
+14198 flushes.
+-> admist those, hero wins 2604, opponent wins 11594.
+You win 477554 rounds.
+----Rates----
+Opponent full house rate: 2.0718%.
+Opponent quads rate: 0.0986%.
+Opponent flush rate: 2.8396%.
+When opponent has flush, My flush_and_win rate: 18.340611353711793%
+Total win rate: 95.51079999999999%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273493 no-paired board, that is 54.6986%.
+There are 202304 single-paired board, that is 40.4608%.
+There are 18087 two-paired board, that is 3.6174%.
+There are 6116 board trips, that is 1.2232%.
+---Admist those rounds, opponents drew---
+483 quads.
+10309 full houses
+14302 flushes.
+-> admist those, hero wins 2514, opponent wins 11788.
+You win 477420 rounds.
+----Rates----
+Opponent full house rate: 2.0618000000000003%.
+Opponent quads rate: 0.09659999999999999%.
+Opponent flush rate: 2.8604000000000003%.
+When opponent has flush, My flush_and_win rate: 17.57796112431828%
+Total win rate: 95.48400000000001%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273406 no-paired board, that is 54.6812%.
+There are 202540 single-paired board, that is 40.508%.
+There are 18064 two-paired board, that is 3.6128%.
+There are 5990 board trips, that is 1.198%.
+---Admist those rounds, opponents drew---
+483 quads.
+10217 full houses
+14286 flushes.
+-> admist those, hero wins 2610, opponent wins 11676.
+You win 477624 rounds.
+----Rates----
+Opponent full house rate: 2.0434%.
+Opponent quads rate: 0.09659999999999999%.
+Opponent flush rate: 2.8572%.
+When opponent has flush, My flush_and_win rate: 18.269634607307854%
+Total win rate: 95.5248%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273410 no-paired board, that is 54.682%.
+There are 202296 single-paired board, that is 40.4592%.
+There are 18138 two-paired board, that is 3.6276%.
+There are 6156 board trips, that is 1.2312%.
+---Admist those rounds, opponents drew---
+518 quads.
+10167 full houses
+14179 flushes.
+-> admist those, hero wins 2543, opponent wins 11636.
+You win 477679 rounds.
+----Rates----
+Opponent full house rate: 2.0334000000000003%.
+Opponent quads rate: 0.1036%.
+Opponent flush rate: 2.8358000000000003%.
+When opponent has flush, My flush_and_win rate: 17.934974257705058%
+Total win rate: 95.53580000000001%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273637 no-paired board, that is 54.7274%.
+There are 202380 single-paired board, that is 40.476%.
+There are 18082 two-paired board, that is 3.6164%.
+There are 5901 board trips, that is 1.1802%.
+---Admist those rounds, opponents drew---
+485 quads.
+10363 full houses
+14149 flushes.
+-> admist those, hero wins 2540, opponent wins 11609.
+You win 477543 rounds.
+----Rates----
+Opponent full house rate: 2.0726%.
+Opponent quads rate: 0.097%.
+Opponent flush rate: 2.8298%.
+When opponent has flush, My flush_and_win rate: 17.951798713690014%
+Total win rate: 95.5086%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273266 no-paired board, that is 54.6532%.
+There are 202346 single-paired board, that is 40.4692%.
+There are 18324 two-paired board, that is 3.6648%.
+There are 6064 board trips, that is 1.2128%.
+---Admist those rounds, opponents drew---
+489 quads.
+10265 full houses
+13989 flushes.
+-> admist those, hero wins 2507, opponent wins 11482.
+You win 477764 rounds.
+----Rates----
+Opponent full house rate: 2.053%.
+Opponent quads rate: 0.0978%.
+Opponent flush rate: 2.7978%.
+When opponent has flush, My flush_and_win rate: 17.921223818714704%
+Total win rate: 95.5528%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273682 no-paired board, that is 54.7364%.
+There are 202023 single-paired board, that is 40.4046%.
+There are 18283 two-paired board, that is 3.6566%.
+There are 6012 board trips, that is 1.2024%.
+---Admist those rounds, opponents drew---
+511 quads.
+10255 full houses
+14140 flushes.
+-> admist those, hero wins 2585, opponent wins 11555.
+You win 477679 rounds.
+----Rates----
+Opponent full house rate: 2.051%.
+Opponent quads rate: 0.10219999999999999%.
+Opponent flush rate: 2.828%.
+When opponent has flush, My flush_and_win rate: 18.281471004243283%
+Total win rate: 95.53580000000001%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-5-7
+how many rounds? 500000
+force the hero to draw a card? enter here: 7
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272934 no-paired board, that is 54.5868%.
+There are 202872 single-paired board, that is 40.5744%.
+There are 18164 two-paired board, that is 3.6328%.
+There are 6030 board trips, that is 1.206%.
+---Admist those rounds, opponents drew---
+530 quads.
+10261 full houses
+14199 flushes.
+-> admist those, hero wins 1513, opponent wins 12686.
+You win 476523 rounds.
+----Rates----
+Opponent full house rate: 2.0522%.
+Opponent quads rate: 0.106%.
+Opponent flush rate: 2.8398%.
+When opponent has flush, My flush_and_win rate: 10.655679977463201%
+Total win rate: 95.3046%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273369 no-paired board, that is 54.6738%.
+There are 202775 single-paired board, that is 40.555%.
+There are 17829 two-paired board, that is 3.5658%.
+There are 6027 board trips, that is 1.2054%.
+---Admist those rounds, opponents drew---
+453 quads.
+10216 full houses
+14182 flushes.
+-> admist those, hero wins 1491, opponent wins 12691.
+You win 476640 rounds.
+----Rates----
+Opponent full house rate: 2.0431999999999997%.
+Opponent quads rate: 0.0906%.
+Opponent flush rate: 2.8364000000000003%.
+When opponent has flush, My flush_and_win rate: 10.513326752221126%
+Total win rate: 95.328%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273364 no-paired board, that is 54.6728%.
+There are 202199 single-paired board, that is 40.4398%.
+There are 18254 two-paired board, that is 3.6508%.
+There are 6183 board trips, that is 1.2366%.
+---Admist those rounds, opponents drew---
+540 quads.
+10347 full houses
+14166 flushes.
+-> admist those, hero wins 1535, opponent wins 12631.
+You win 476482 rounds.
+----Rates----
+Opponent full house rate: 2.0694%.
+Opponent quads rate: 0.108%.
+Opponent flush rate: 2.8332%.
+When opponent has flush, My flush_and_win rate: 10.835804037837073%
+Total win rate: 95.2964%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273352 no-paired board, that is 54.6704%.
+There are 202415 single-paired board, that is 40.483%.
+There are 18224 two-paired board, that is 3.6448%.
+There are 6009 board trips, that is 1.2018%.
+---Admist those rounds, opponents drew---
+482 quads.
+10229 full houses
+14176 flushes.
+-> admist those, hero wins 1515, opponent wins 12661.
+You win 476628 rounds.
+----Rates----
+Opponent full house rate: 2.0458%.
+Opponent quads rate: 0.0964%.
+Opponent flush rate: 2.8352%.
+When opponent has flush, My flush_and_win rate: 10.687076749435667%
+Total win rate: 95.3256%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272873 no-paired board, that is 54.5746%.
+There are 202565 single-paired board, that is 40.513%.
+There are 18283 two-paired board, that is 3.6566%.
+There are 6279 board trips, that is 1.2558%.
+---Admist those rounds, opponents drew---
+536 quads.
+10585 full houses
+14122 flushes.
+-> admist those, hero wins 1435, opponent wins 12687.
+You win 476192 rounds.
+----Rates----
+Opponent full house rate: 2.117%.
+Opponent quads rate: 0.1072%.
+Opponent flush rate: 2.8244%.
+When opponent has flush, My flush_and_win rate: 10.16145021951565%
+Total win rate: 95.2384%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273157 no-paired board, that is 54.6314%.
+There are 202474 single-paired board, that is 40.4948%.
+There are 18365 two-paired board, that is 3.673%.
+There are 6004 board trips, that is 1.2008%.
+---Admist those rounds, opponents drew---
+551 quads.
+10241 full houses
+14194 flushes.
+-> admist those, hero wins 1573, opponent wins 12621.
+You win 476587 rounds.
+----Rates----
+Opponent full house rate: 2.0482%.
+Opponent quads rate: 0.11019999999999999%.
+Opponent flush rate: 2.8388%.
+When opponent has flush, My flush_and_win rate: 11.082147386219528%
+Total win rate: 95.31739999999999%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273594 no-paired board, that is 54.7188%.
+There are 201886 single-paired board, that is 40.3772%.
+There are 18321 two-paired board, that is 3.6642%.
+There are 6199 board trips, that is 1.2398%.
+---Admist those rounds, opponents drew---
+500 quads.
+10443 full houses
+14108 flushes.
+-> admist those, hero wins 1557, opponent wins 12551.
+You win 476506 rounds.
+----Rates----
+Opponent full house rate: 2.0886%.
+Opponent quads rate: 0.1%.
+Opponent flush rate: 2.8216%.
+When opponent has flush, My flush_and_win rate: 11.036291465834987%
+Total win rate: 95.3012%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272788 no-paired board, that is 54.5576%.
+There are 202896 single-paired board, that is 40.5792%.
+There are 18330 two-paired board, that is 3.666%.
+There are 5986 board trips, that is 1.1972%.
+---Admist those rounds, opponents drew---
+472 quads.
+10101 full houses
+14211 flushes.
+-> admist those, hero wins 1597, opponent wins 12614.
+You win 476813 rounds.
+----Rates----
+Opponent full house rate: 2.0202%.
+Opponent quads rate: 0.0944%.
+Opponent flush rate: 2.8422%.
+When opponent has flush, My flush_and_win rate: 11.237773555696291%
+Total win rate: 95.3626%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273425 no-paired board, that is 54.685%.
+There are 202417 single-paired board, that is 40.4834%.
+There are 17992 two-paired board, that is 3.5984%.
+There are 6166 board trips, that is 1.2332%.
+---Admist those rounds, opponents drew---
+509 quads.
+10252 full houses
+14053 flushes.
+-> admist those, hero wins 1497, opponent wins 12556.
+You win 476683 rounds.
+----Rates----
+Opponent full house rate: 2.0504000000000002%.
+Opponent quads rate: 0.1018%.
+Opponent flush rate: 2.8106%.
+When opponent has flush, My flush_and_win rate: 10.65252970895894%
+Total win rate: 95.3366%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272849 no-paired board, that is 54.5698%.
+There are 202736 single-paired board, that is 40.5472%.
+There are 18380 two-paired board, that is 3.676%.
+There are 6035 board trips, that is 1.207%.
+---Admist those rounds, opponents drew---
+534 quads.
+10423 full houses
+14256 flushes.
+-> admist those, hero wins 1533, opponent wins 12723.
+You win 476320 rounds.
+----Rates----
+Opponent full house rate: 2.0846%.
+Opponent quads rate: 0.10679999999999999%.
+Opponent flush rate: 2.8512%.
+When opponent has flush, My flush_and_win rate: 10.753367003367003%
+Total win rate: 95.26400000000001%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-5-6
+how many rounds? 500000
+force the hero to draw a card? enter here: 6
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272830 no-paired board, that is 54.566%.
+There are 203048 single-paired board, that is 40.6096%.
+There are 18024 two-paired board, that is 3.6048%.
+There are 6098 board trips, that is 1.2196%.
+---Admist those rounds, opponents drew---
+496 quads.
+10313 full houses
+14050 flushes.
+-> admist those, hero wins 768, opponent wins 13282.
+You win 475909 rounds.
+----Rates----
+Opponent full house rate: 2.0625999999999998%.
+Opponent quads rate: 0.09920000000000001%.
+Opponent flush rate: 2.81%.
+When opponent has flush, My flush_and_win rate: 5.4661921708185055%
+Total win rate: 95.18180000000001%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273581 no-paired board, that is 54.7162%.
+There are 202366 single-paired board, that is 40.4732%.
+There are 17983 two-paired board, that is 3.5966%.
+There are 6070 board trips, that is 1.214%.
+---Admist those rounds, opponents drew---
+502 quads.
+10266 full houses
+14146 flushes.
+-> admist those, hero wins 808, opponent wins 13338.
+You win 475894 rounds.
+----Rates----
+Opponent full house rate: 2.0532000000000004%.
+Opponent quads rate: 0.10039999999999999%.
+Opponent flush rate: 2.8292%.
+When opponent has flush, My flush_and_win rate: 5.711862010462322%
+Total win rate: 95.1788%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272782 no-paired board, that is 54.5564%.
+There are 202655 single-paired board, that is 40.531%.
+There are 18400 two-paired board, that is 3.68%.
+There are 6163 board trips, that is 1.2326%.
+---Admist those rounds, opponents drew---
+515 quads.
+10446 full houses
+14055 flushes.
+-> admist those, hero wins 744, opponent wins 13311.
+You win 475728 rounds.
+----Rates----
+Opponent full house rate: 2.0892%.
+Opponent quads rate: 0.10300000000000001%.
+Opponent flush rate: 2.811%.
+When opponent has flush, My flush_and_win rate: 5.293489861259338%
+Total win rate: 95.1456%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273183 no-paired board, that is 54.6366%.
+There are 202512 single-paired board, that is 40.5024%.
+There are 18180 two-paired board, that is 3.636%.
+There are 6125 board trips, that is 1.225%.
+---Admist those rounds, opponents drew---
+499 quads.
+10380 full houses
+14218 flushes.
+-> admist those, hero wins 734, opponent wins 13484.
+You win 475637 rounds.
+----Rates----
+Opponent full house rate: 2.076%.
+Opponent quads rate: 0.0998%.
+Opponent flush rate: 2.8436%.
+When opponent has flush, My flush_and_win rate: 5.162470108313406%
+Total win rate: 95.1274%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 274310 no-paired board, that is 54.862%.
+There are 201195 single-paired board, that is 40.239%.
+There are 18305 two-paired board, that is 3.661%.
+There are 6190 board trips, that is 1.238%.
+---Admist those rounds, opponents drew---
+501 quads.
+10102 full houses
+14153 flushes.
+-> admist those, hero wins 797, opponent wins 13356.
+You win 476041 rounds.
+----Rates----
+Opponent full house rate: 2.0204%.
+Opponent quads rate: 0.10020000000000001%.
+Opponent flush rate: 2.8306%.
+When opponent has flush, My flush_and_win rate: 5.631314915565604%
+Total win rate: 95.2082%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273972 no-paired board, that is 54.7944%.
+There are 201661 single-paired board, that is 40.3322%.
+There are 18288 two-paired board, that is 3.6576%.
+There are 6079 board trips, that is 1.2158%.
+---Admist those rounds, opponents drew---
+518 quads.
+10321 full houses
+14018 flushes.
+-> admist those, hero wins 760, opponent wins 13258.
+You win 475903 rounds.
+----Rates----
+Opponent full house rate: 2.0642%.
+Opponent quads rate: 0.1036%.
+Opponent flush rate: 2.8036%.
+When opponent has flush, My flush_and_win rate: 5.421600798972749%
+Total win rate: 95.1806%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273005 no-paired board, that is 54.601%.
+There are 202994 single-paired board, that is 40.5988%.
+There are 17983 two-paired board, that is 3.5966%.
+There are 6018 board trips, that is 1.2036%.
+---Admist those rounds, opponents drew---
+516 quads.
+10329 full houses
+14307 flushes.
+-> admist those, hero wins 779, opponent wins 13528.
+You win 475627 rounds.
+----Rates----
+Opponent full house rate: 2.0658%.
+Opponent quads rate: 0.10319999999999999%.
+Opponent flush rate: 2.8614%.
+When opponent has flush, My flush_and_win rate: 5.444887118193891%
+Total win rate: 95.1254%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273278 no-paired board, that is 54.6556%.
+There are 202568 single-paired board, that is 40.5136%.
+There are 18108 two-paired board, that is 3.6216%.
+There are 6046 board trips, that is 1.2092%.
+---Admist those rounds, opponents drew---
+456 quads.
+10127 full houses
+14137 flushes.
+-> admist those, hero wins 767, opponent wins 13370.
+You win 476047 rounds.
+----Rates----
+Opponent full house rate: 2.0254000000000003%.
+Opponent quads rate: 0.0912%.
+Opponent flush rate: 2.8274%.
+When opponent has flush, My flush_and_win rate: 5.425479238876706%
+Total win rate: 95.2094%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273199 no-paired board, that is 54.6398%.
+There are 202681 single-paired board, that is 40.5362%.
+There are 18129 two-paired board, that is 3.6258%.
+There are 5991 board trips, that is 1.1982%.
+---Admist those rounds, opponents drew---
+509 quads.
+10421 full houses
+14238 flushes.
+-> admist those, hero wins 771, opponent wins 13467.
+You win 475603 rounds.
+----Rates----
+Opponent full house rate: 2.0842%.
+Opponent quads rate: 0.1018%.
+Opponent flush rate: 2.8476%.
+When opponent has flush, My flush_and_win rate: 5.415086388537716%
+Total win rate: 95.1206%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273314 no-paired board, that is 54.6628%.
+There are 202222 single-paired board, that is 40.4444%.
+There are 18394 two-paired board, that is 3.6788%.
+There are 6070 board trips, that is 1.214%.
+---Admist those rounds, opponents drew---
+490 quads.
+10379 full houses
+14133 flushes.
+-> admist those, hero wins 766, opponent wins 13367.
+You win 475764 rounds.
+----Rates----
+Opponent full house rate: 2.0758%.
+Opponent quads rate: 0.098%.
+Opponent flush rate: 2.8266%.
+When opponent has flush, My flush_and_win rate: 5.419939149508243%
+Total win rate: 95.1528%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-5-5
+how many rounds? 500000
+force the hero to draw a card? enter here: 5
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272584 no-paired board, that is 54.5168%.
+There are 202995 single-paired board, that is 40.599%.
+There are 18340 two-paired board, that is 3.668%.
+There are 6081 board trips, that is 1.2162%.
+---Admist those rounds, opponents drew---
+466 quads.
+10227 full houses
+14268 flushes.
+-> admist those, hero wins 289, opponent wins 13979.
+You win 475328 rounds.
+----Rates----
+Opponent full house rate: 2.0454%.
+Opponent quads rate: 0.0932%.
+Opponent flush rate: 2.8535999999999997%.
+When opponent has flush, My flush_and_win rate: 2.025511634426689%
+Total win rate: 95.06559999999999%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273449 no-paired board, that is 54.6898%.
+There are 202595 single-paired board, that is 40.519%.
+There are 18034 two-paired board, that is 3.6068%.
+There are 5922 board trips, that is 1.1844%.
+---Admist those rounds, opponents drew---
+524 quads.
+10288 full houses
+14062 flushes.
+-> admist those, hero wins 260, opponent wins 13802.
+You win 475386 rounds.
+----Rates----
+Opponent full house rate: 2.0576%.
+Opponent quads rate: 0.1048%.
+Opponent flush rate: 2.8124%.
+When opponent has flush, My flush_and_win rate: 1.8489546294979378%
+Total win rate: 95.07719999999999%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272923 no-paired board, that is 54.5846%.
+There are 202747 single-paired board, that is 40.5494%.
+There are 18174 two-paired board, that is 3.6348%.
+There are 6156 board trips, that is 1.2312%.
+---Admist those rounds, opponents drew---
+513 quads.
+10444 full houses
+14138 flushes.
+-> admist those, hero wins 272, opponent wins 13866.
+You win 475177 rounds.
+----Rates----
+Opponent full house rate: 2.0888%.
+Opponent quads rate: 0.1026%.
+Opponent flush rate: 2.8276%.
+When opponent has flush, My flush_and_win rate: 1.9238930541802237%
+Total win rate: 95.03540000000001%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273556 no-paired board, that is 54.7112%.
+There are 202209 single-paired board, that is 40.4418%.
+There are 18240 two-paired board, that is 3.648%.
+There are 5995 board trips, that is 1.199%.
+---Admist those rounds, opponents drew---
+513 quads.
+10401 full houses
+14355 flushes.
+-> admist those, hero wins 259, opponent wins 14096.
+You win 474990 rounds.
+----Rates----
+Opponent full house rate: 2.0802%.
+Opponent quads rate: 0.1026%.
+Opponent flush rate: 2.871%.
+When opponent has flush, My flush_and_win rate: 1.8042493904562869%
+Total win rate: 94.998%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273409 no-paired board, that is 54.6818%.
+There are 202233 single-paired board, that is 40.4466%.
+There are 18292 two-paired board, that is 3.6584%.
+There are 6066 board trips, that is 1.2132%.
+---Admist those rounds, opponents drew---
+513 quads.
+10310 full houses
+14013 flushes.
+-> admist those, hero wins 253, opponent wins 13760.
+You win 475417 rounds.
+----Rates----
+Opponent full house rate: 2.062%.
+Opponent quads rate: 0.1026%.
+Opponent flush rate: 2.8026%.
+When opponent has flush, My flush_and_win rate: 1.8054663526725183%
+Total win rate: 95.0834%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272718 no-paired board, that is 54.5436%.
+There are 203102 single-paired board, that is 40.6204%.
+There are 18028 two-paired board, that is 3.6056%.
+There are 6152 board trips, that is 1.2304%.
+---Admist those rounds, opponents drew---
+525 quads.
+10419 full houses
+14321 flushes.
+-> admist those, hero wins 250, opponent wins 14071.
+You win 474985 rounds.
+----Rates----
+Opponent full house rate: 2.0838%.
+Opponent quads rate: 0.105%.
+Opponent flush rate: 2.8642000000000003%.
+When opponent has flush, My flush_and_win rate: 1.745688150268836%
+Total win rate: 94.997%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273621 no-paired board, that is 54.7242%.
+There are 201914 single-paired board, that is 40.3828%.
+There are 18306 two-paired board, that is 3.6612%.
+There are 6159 board trips, that is 1.2318%.
+---Admist those rounds, opponents drew---
+527 quads.
+10267 full houses
+13951 flushes.
+-> admist those, hero wins 257, opponent wins 13694.
+You win 475512 rounds.
+----Rates----
+Opponent full house rate: 2.0534%.
+Opponent quads rate: 0.10540000000000001%.
+Opponent flush rate: 2.7902%.
+When opponent has flush, My flush_and_win rate: 1.8421618521969754%
+Total win rate: 95.1024%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273549 no-paired board, that is 54.7098%.
+There are 201967 single-paired board, that is 40.3934%.
+There are 18404 two-paired board, that is 3.6808%.
+There are 6080 board trips, that is 1.216%.
+---Admist those rounds, opponents drew---
+526 quads.
+10408 full houses
+14084 flushes.
+-> admist those, hero wins 231, opponent wins 13853.
+You win 475213 rounds.
+----Rates----
+Opponent full house rate: 2.0816%.
+Opponent quads rate: 0.1052%.
+Opponent flush rate: 2.8167999999999997%.
+When opponent has flush, My flush_and_win rate: 1.6401590457256463%
+Total win rate: 95.0426%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273222 no-paired board, that is 54.6444%.
+There are 202549 single-paired board, that is 40.5098%.
+There are 18167 two-paired board, that is 3.6334%.
+There are 6062 board trips, that is 1.2124%.
+---Admist those rounds, opponents drew---
+520 quads.
+10226 full houses
+14160 flushes.
+-> admist those, hero wins 253, opponent wins 13907.
+You win 475347 rounds.
+----Rates----
+Opponent full house rate: 2.0452000000000004%.
+Opponent quads rate: 0.104%.
+Opponent flush rate: 2.8320000000000003%.
+When opponent has flush, My flush_and_win rate: 1.786723163841808%
+Total win rate: 95.0694%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273491 no-paired board, that is 54.6982%.
+There are 202198 single-paired board, that is 40.4396%.
+There are 18194 two-paired board, that is 3.6388%.
+There are 6117 board trips, that is 1.2234%.
+---Admist those rounds, opponents drew---
+527 quads.
+10281 full houses
+14010 flushes.
+-> admist those, hero wins 233, opponent wins 13777.
+You win 475415 rounds.
+----Rates----
+Opponent full house rate: 2.0562%.
+Opponent quads rate: 0.10540000000000001%.
+Opponent flush rate: 2.802%.
+When opponent has flush, My flush_and_win rate: 1.6630977872947892%
+Total win rate: 95.083%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-5-4
+how many rounds? 500000
+force the hero to draw a card? enter here: 4
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273231 no-paired board, that is 54.6462%.
+There are 202586 single-paired board, that is 40.5172%.
+There are 18200 two-paired board, that is 3.64%.
+There are 5983 board trips, that is 1.1966%.
+---Admist those rounds, opponents drew---
+511 quads.
+10287 full houses
+14296 flushes.
+-> admist those, hero wins 0, opponent wins 14296.
+You win 474906 rounds.
+----Rates----
+Opponent full house rate: 2.0574%.
+Opponent quads rate: 0.10219999999999999%.
+Opponent flush rate: 2.8592%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 94.9812%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273434 no-paired board, that is 54.6868%.
+There are 202143 single-paired board, that is 40.4286%.
+There are 18343 two-paired board, that is 3.6686%.
+There are 6080 board trips, that is 1.216%.
+---Admist those rounds, opponents drew---
+512 quads.
+10210 full houses
+14131 flushes.
+-> admist those, hero wins 0, opponent wins 14131.
+You win 475147 rounds.
+----Rates----
+Opponent full house rate: 2.0420000000000003%.
+Opponent quads rate: 0.10239999999999999%.
+Opponent flush rate: 2.8262%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 95.0294%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272632 no-paired board, that is 54.5264%.
+There are 202670 single-paired board, that is 40.534%.
+There are 18484 two-paired board, that is 3.6968%.
+There are 6214 board trips, that is 1.2428%.
+---Admist those rounds, opponents drew---
+534 quads.
+10464 full houses
+14141 flushes.
+-> admist those, hero wins 0, opponent wins 14141.
+You win 474861 rounds.
+----Rates----
+Opponent full house rate: 2.0928%.
+Opponent quads rate: 0.10679999999999999%.
+Opponent flush rate: 2.8282000000000003%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 94.9722%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273208 no-paired board, that is 54.6416%.
+There are 202636 single-paired board, that is 40.5272%.
+There are 18129 two-paired board, that is 3.6258%.
+There are 6027 board trips, that is 1.2054%.
+---Admist those rounds, opponents drew---
+537 quads.
+10048 full houses
+14181 flushes.
+-> admist those, hero wins 0, opponent wins 14181.
+You win 475234 rounds.
+----Rates----
+Opponent full house rate: 2.0096%.
+Opponent quads rate: 0.10740000000000001%.
+Opponent flush rate: 2.8362%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 95.0468%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273667 no-paired board, that is 54.7334%.
+There are 202121 single-paired board, that is 40.4242%.
+There are 18061 two-paired board, that is 3.6122%.
+There are 6151 board trips, that is 1.2302%.
+---Admist those rounds, opponents drew---
+519 quads.
+10172 full houses
+14215 flushes.
+-> admist those, hero wins 0, opponent wins 14215.
+You win 475094 rounds.
+----Rates----
+Opponent full house rate: 2.0344%.
+Opponent quads rate: 0.1038%.
+Opponent flush rate: 2.843%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 95.0188%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273419 no-paired board, that is 54.6838%.
+There are 202338 single-paired board, that is 40.4676%.
+There are 18215 two-paired board, that is 3.643%.
+There are 6028 board trips, that is 1.2056%.
+---Admist those rounds, opponents drew---
+512 quads.
+10297 full houses
+14058 flushes.
+-> admist those, hero wins 0, opponent wins 14058.
+You win 475133 rounds.
+----Rates----
+Opponent full house rate: 2.0594%.
+Opponent quads rate: 0.10239999999999999%.
+Opponent flush rate: 2.8116%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 95.0266%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272962 no-paired board, that is 54.5924%.
+There are 202643 single-paired board, that is 40.5286%.
+There are 18291 two-paired board, that is 3.6582%.
+There are 6104 board trips, that is 1.2208%.
+---Admist those rounds, opponents drew---
+531 quads.
+10232 full houses
+14196 flushes.
+-> admist those, hero wins 0, opponent wins 14196.
+You win 475041 rounds.
+----Rates----
+Opponent full house rate: 2.0463999999999998%.
+Opponent quads rate: 0.1062%.
+Opponent flush rate: 2.8392%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 95.0082%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273144 no-paired board, that is 54.6288%.
+There are 202558 single-paired board, that is 40.5116%.
+There are 18177 two-paired board, that is 3.6354%.
+There are 6121 board trips, that is 1.2242%.
+---Admist those rounds, opponents drew---
+491 quads.
+10248 full houses
+14073 flushes.
+-> admist those, hero wins 0, opponent wins 14073.
+You win 475188 rounds.
+----Rates----
+Opponent full house rate: 2.0496%.
+Opponent quads rate: 0.0982%.
+Opponent flush rate: 2.8146%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 95.0376%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273307 no-paired board, that is 54.6614%.
+There are 202239 single-paired board, that is 40.4478%.
+There are 18295 two-paired board, that is 3.659%.
+There are 6159 board trips, that is 1.2318%.
+---Admist those rounds, opponents drew---
+484 quads.
+10292 full houses
+14351 flushes.
+-> admist those, hero wins 0, opponent wins 14351.
+You win 474873 rounds.
+----Rates----
+Opponent full house rate: 2.0584000000000002%.
+Opponent quads rate: 0.0968%.
+Opponent flush rate: 2.8701999999999996%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 94.9746%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273608 no-paired board, that is 54.7216%.
+There are 202136 single-paired board, that is 40.4272%.
+There are 18162 two-paired board, that is 3.6324%.
+There are 6094 board trips, that is 1.2188%.
+---Admist those rounds, opponents drew---
+479 quads.
+10255 full houses
+14160 flushes.
+-> admist those, hero wins 0, opponent wins 14160.
+You win 475106 rounds.
+----Rates----
+Opponent full house rate: 2.051%.
+Opponent quads rate: 0.0958%.
+Opponent flush rate: 2.8320000000000003%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 95.0212%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-5-3
+how many rounds? 500000
+force the hero to draw a card? enter here: 3
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273620 no-paired board, that is 54.724%.
+There are 202190 single-paired board, that is 40.438%.
+There are 18116 two-paired board, that is 3.6232%.
+There are 6074 board trips, that is 1.2148%.
+---Admist those rounds, opponents drew---
+500 quads.
+10230 full houses
+14004 flushes.
+-> admist those, hero wins 0, opponent wins 14004.
+You win 475266 rounds.
+----Rates----
+Opponent full house rate: 2.046%.
+Opponent quads rate: 0.1%.
+Opponent flush rate: 2.8008%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 95.0532%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273526 no-paired board, that is 54.7052%.
+There are 202362 single-paired board, that is 40.4724%.
+There are 18136 two-paired board, that is 3.6272%.
+There are 5976 board trips, that is 1.1952%.
+---Admist those rounds, opponents drew---
+495 quads.
+10289 full houses
+14094 flushes.
+-> admist those, hero wins 0, opponent wins 14094.
+You win 475122 rounds.
+----Rates----
+Opponent full house rate: 2.0578%.
+Opponent quads rate: 0.099%.
+Opponent flush rate: 2.8188%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 95.0244%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272815 no-paired board, that is 54.563%.
+There are 203131 single-paired board, that is 40.6262%.
+There are 18010 two-paired board, that is 3.602%.
+There are 6044 board trips, that is 1.2088%.
+---Admist those rounds, opponents drew---
+519 quads.
+10283 full houses
+14119 flushes.
+-> admist those, hero wins 0, opponent wins 14119.
+You win 475079 rounds.
+----Rates----
+Opponent full house rate: 2.0566%.
+Opponent quads rate: 0.1038%.
+Opponent flush rate: 2.8238%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 95.0158%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273550 no-paired board, that is 54.71%.
+There are 202039 single-paired board, that is 40.4078%.
+There are 18290 two-paired board, that is 3.658%.
+There are 6121 board trips, that is 1.2242%.
+---Admist those rounds, opponents drew---
+458 quads.
+10364 full houses
+14347 flushes.
+-> admist those, hero wins 0, opponent wins 14347.
+You win 474831 rounds.
+----Rates----
+Opponent full house rate: 2.0728%.
+Opponent quads rate: 0.0916%.
+Opponent flush rate: 2.8694%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 94.9662%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272975 no-paired board, that is 54.595%.
+There are 202730 single-paired board, that is 40.546%.
+There are 18112 two-paired board, that is 3.6224%.
+There are 6183 board trips, that is 1.2366%.
+---Admist those rounds, opponents drew---
+510 quads.
+10172 full houses
+14135 flushes.
+-> admist those, hero wins 0, opponent wins 14135.
+You win 475183 rounds.
+----Rates----
+Opponent full house rate: 2.0344%.
+Opponent quads rate: 0.10200000000000001%.
+Opponent flush rate: 2.827%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 95.0366%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273536 no-paired board, that is 54.7072%.
+There are 202179 single-paired board, that is 40.4358%.
+There are 18238 two-paired board, that is 3.6476%.
+There are 6047 board trips, that is 1.2094%.
+---Admist those rounds, opponents drew---
+519 quads.
+10150 full houses
+14200 flushes.
+-> admist those, hero wins 0, opponent wins 14200.
+You win 475131 rounds.
+----Rates----
+Opponent full house rate: 2.03%.
+Opponent quads rate: 0.1038%.
+Opponent flush rate: 2.8400000000000003%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 95.0262%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272839 no-paired board, that is 54.5678%.
+There are 202993 single-paired board, that is 40.5986%.
+There are 18117 two-paired board, that is 3.6234%.
+There are 6051 board trips, that is 1.2102%.
+---Admist those rounds, opponents drew---
+532 quads.
+10170 full houses
+14458 flushes.
+-> admist those, hero wins 0, opponent wins 14458.
+You win 474840 rounds.
+----Rates----
+Opponent full house rate: 2.0340000000000003%.
+Opponent quads rate: 0.10640000000000001%.
+Opponent flush rate: 2.8916%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 94.968%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273181 no-paired board, that is 54.6362%.
+There are 202443 single-paired board, that is 40.4886%.
+There are 18410 two-paired board, that is 3.682%.
+There are 5966 board trips, that is 1.1932%.
+---Admist those rounds, opponents drew---
+534 quads.
+10363 full houses
+14022 flushes.
+-> admist those, hero wins 0, opponent wins 14022.
+You win 475081 rounds.
+----Rates----
+Opponent full house rate: 2.0726%.
+Opponent quads rate: 0.10679999999999999%.
+Opponent flush rate: 2.8044%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 95.0162%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272842 no-paired board, that is 54.5684%.
+There are 202785 single-paired board, that is 40.557%.
+There are 18215 two-paired board, that is 3.643%.
+There are 6158 board trips, that is 1.2316%.
+---Admist those rounds, opponents drew---
+514 quads.
+10460 full houses
+14081 flushes.
+-> admist those, hero wins 0, opponent wins 14081.
+You win 474945 rounds.
+----Rates----
+Opponent full house rate: 2.092%.
+Opponent quads rate: 0.1028%.
+Opponent flush rate: 2.8162%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 94.989%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272997 no-paired board, that is 54.5994%.
+There are 202709 single-paired board, that is 40.5418%.
+There are 18237 two-paired board, that is 3.6474%.
+There are 6057 board trips, that is 1.2114%.
+---Admist those rounds, opponents drew---
+507 quads.
+10362 full houses
+14426 flushes.
+-> admist those, hero wins 0, opponent wins 14426.
+You win 474705 rounds.
+----Rates----
+Opponent full house rate: 2.0724%.
+Opponent quads rate: 0.10139999999999999%.
+Opponent flush rate: 2.8851999999999998%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 94.941%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-5-N
+how many rounds? 500000
+force the hero to draw a card? enter here: 
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272867 no-paired board, that is 54.5734%.
+There are 202795 single-paired board, that is 40.559%.
+There are 18254 two-paired board, that is 3.6508%.
+There are 6084 board trips, that is 1.2168%.
+---Admist those rounds, opponents drew---
+482 quads.
+10421 full houses
+14087 flushes.
+-> admist those, hero wins 6982, opponent wins 7105.
+You win 481992 rounds.
+----Rates----
+Opponent full house rate: 2.0842%.
+Opponent quads rate: 0.0964%.
+Opponent flush rate: 2.8174%.
+When opponent has flush, My flush_and_win rate: 49.56342727337261%
+Total win rate: 96.3984%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273278 no-paired board, that is 54.6556%.
+There are 202505 single-paired board, that is 40.501%.
+There are 18121 two-paired board, that is 3.6242%.
+There are 6096 board trips, that is 1.2192%.
+---Admist those rounds, opponents drew---
+499 quads.
+10371 full houses
+14317 flushes.
+-> admist those, hero wins 7215, opponent wins 7102.
+You win 482028 rounds.
+----Rates----
+Opponent full house rate: 2.0742%.
+Opponent quads rate: 0.0998%.
+Opponent flush rate: 2.8634%.
+When opponent has flush, My flush_and_win rate: 50.39463574771251%
+Total win rate: 96.4056%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273182 no-paired board, that is 54.6364%.
+There are 202670 single-paired board, that is 40.534%.
+There are 18148 two-paired board, that is 3.6296%.
+There are 6000 board trips, that is 1.2%.
+---Admist those rounds, opponents drew---
+480 quads.
+10121 full houses
+14134 flushes.
+-> admist those, hero wins 7052, opponent wins 7082.
+You win 482317 rounds.
+----Rates----
+Opponent full house rate: 2.0242%.
+Opponent quads rate: 0.096%.
+Opponent flush rate: 2.8268%.
+When opponent has flush, My flush_and_win rate: 49.89387293052214%
+Total win rate: 96.4634%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 274156 no-paired board, that is 54.8312%.
+There are 201806 single-paired board, that is 40.3612%.
+There are 18173 two-paired board, that is 3.6346%.
+There are 5865 board trips, that is 1.173%.
+---Admist those rounds, opponents drew---
+442 quads.
+10329 full houses
+14119 flushes.
+-> admist those, hero wins 7179, opponent wins 6940.
+You win 482289 rounds.
+----Rates----
+Opponent full house rate: 2.0658%.
+Opponent quads rate: 0.0884%.
+Opponent flush rate: 2.8238%.
+When opponent has flush, My flush_and_win rate: 50.84637722218287%
+Total win rate: 96.4578%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 272786 no-paired board, that is 54.5572%.
+There are 203140 single-paired board, that is 40.628%.
+There are 18042 two-paired board, that is 3.6084%.
+There are 6032 board trips, that is 1.2064%.
+---Admist those rounds, opponents drew---
+504 quads.
+10199 full houses
+14123 flushes.
+-> admist those, hero wins 7112, opponent wins 7011.
+You win 482286 rounds.
+----Rates----
+Opponent full house rate: 2.0398%.
+Opponent quads rate: 0.1008%.
+Opponent flush rate: 2.8246%.
+When opponent has flush, My flush_and_win rate: 50.357572753664236%
+Total win rate: 96.4572%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273632 no-paired board, that is 54.7264%.
+There are 202026 single-paired board, that is 40.4052%.
+There are 18394 two-paired board, that is 3.6788%.
+There are 5948 board trips, that is 1.1896%.
+---Admist those rounds, opponents drew---
+530 quads.
+10383 full houses
+14102 flushes.
+-> admist those, hero wins 7099, opponent wins 7003.
+You win 482084 rounds.
+----Rates----
+Opponent full house rate: 2.0766%.
+Opponent quads rate: 0.106%.
+Opponent flush rate: 2.8204%.
+When opponent has flush, My flush_and_win rate: 50.340377251453695%
+Total win rate: 96.41680000000001%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273224 no-paired board, that is 54.6448%.
+There are 202570 single-paired board, that is 40.514%.
+There are 18194 two-paired board, that is 3.6388%.
+There are 6012 board trips, that is 1.2024%.
+---Admist those rounds, opponents drew---
+492 quads.
+10388 full houses
+13960 flushes.
+-> admist those, hero wins 6878, opponent wins 7082.
+You win 482038 rounds.
+----Rates----
+Opponent full house rate: 2.0776%.
+Opponent quads rate: 0.0984%.
+Opponent flush rate: 2.792%.
+When opponent has flush, My flush_and_win rate: 49.269340974212035%
+Total win rate: 96.4076%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273179 no-paired board, that is 54.6358%.
+There are 202575 single-paired board, that is 40.515%.
+There are 18144 two-paired board, that is 3.6288%.
+There are 6102 board trips, that is 1.2204%.
+---Admist those rounds, opponents drew---
+470 quads.
+10241 full houses
+13951 flushes.
+-> admist those, hero wins 7010, opponent wins 6941.
+You win 482348 rounds.
+----Rates----
+Opponent full house rate: 2.0482%.
+Opponent quads rate: 0.094%.
+Opponent flush rate: 2.7902%.
+When opponent has flush, My flush_and_win rate: 50.2472941007813%
+Total win rate: 96.4696%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273532 no-paired board, that is 54.7064%.
+There are 202295 single-paired board, that is 40.459%.
+There are 18052 two-paired board, that is 3.6104%.
+There are 6121 board trips, that is 1.2242%.
+---Admist those rounds, opponents drew---
+533 quads.
+10262 full houses
+14300 flushes.
+-> admist those, hero wins 7101, opponent wins 7199.
+You win 482006 rounds.
+----Rates----
+Opponent full house rate: 2.0524%.
+Opponent quads rate: 0.10660000000000001%.
+Opponent flush rate: 2.86%.
+When opponent has flush, My flush_and_win rate: 49.65734265734266%
+Total win rate: 96.4012%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 273452 no-paired board, that is 54.6904%.
+There are 202298 single-paired board, that is 40.4596%.
+There are 18270 two-paired board, that is 3.654%.
+There are 5980 board trips, that is 1.196%.
+---Admist those rounds, opponents drew---
+525 quads.
+10171 full houses
+14066 flushes.
+-> admist those, hero wins 7008, opponent wins 7058.
+You win 482246 rounds.
+----Rates----
+Opponent full house rate: 2.0342%.
+Opponent quads rate: 0.105%.
+Opponent flush rate: 2.8132%.
+When opponent has flush, My flush_and_win rate: 49.82226645812598%
+Total win rate: 96.4492%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-6 & #M-7-A
+
+how many rounds? 500000
+force the hero to draw a card? enter here: A
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346241 no-paired board, that is 69.2482%.
+There are 153759 single-paired board, that is 30.7518%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+156 quads.
+4171 full houses
+145052 flushes.
+-> admist those, hero wins 145052, opponent wins 0.
+You win 495673 rounds.
+----Rates----
+Opponent full house rate: 0.8342%.
+Opponent quads rate: 0.0312%.
+Opponent flush rate: 29.010399999999997%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 99.13459999999999%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346027 no-paired board, that is 69.2054%.
+There are 153973 single-paired board, that is 30.7946%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+156 quads.
+4139 full houses
+144841 flushes.
+-> admist those, hero wins 144841, opponent wins 0.
+You win 495705 rounds.
+----Rates----
+Opponent full house rate: 0.8278000000000001%.
+Opponent quads rate: 0.0312%.
+Opponent flush rate: 28.9682%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 99.141%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346330 no-paired board, that is 69.266%.
+There are 153670 single-paired board, that is 30.734%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+169 quads.
+4282 full houses
+144699 flushes.
+-> admist those, hero wins 144699, opponent wins 0.
+You win 495549 rounds.
+----Rates----
+Opponent full house rate: 0.8564%.
+Opponent quads rate: 0.0338%.
+Opponent flush rate: 28.939799999999998%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 99.1098%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346183 no-paired board, that is 69.2366%.
+There are 153817 single-paired board, that is 30.7634%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+142 quads.
+4160 full houses
+144943 flushes.
+-> admist those, hero wins 144943, opponent wins 0.
+You win 495698 rounds.
+----Rates----
+Opponent full house rate: 0.832%.
+Opponent quads rate: 0.0284%.
+Opponent flush rate: 28.988599999999998%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 99.1396%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345764 no-paired board, that is 69.1528%.
+There are 154236 single-paired board, that is 30.8472%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+162 quads.
+4075 full houses
+144341 flushes.
+-> admist those, hero wins 144341, opponent wins 0.
+You win 495763 rounds.
+----Rates----
+Opponent full house rate: 0.815%.
+Opponent quads rate: 0.0324%.
+Opponent flush rate: 28.868199999999998%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 99.1526%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345964 no-paired board, that is 69.1928%.
+There are 154036 single-paired board, that is 30.8072%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+159 quads.
+4280 full houses
+144528 flushes.
+-> admist those, hero wins 144528, opponent wins 0.
+You win 495561 rounds.
+----Rates----
+Opponent full house rate: 0.856%.
+Opponent quads rate: 0.031799999999999995%.
+Opponent flush rate: 28.9056%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 99.1122%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345952 no-paired board, that is 69.1904%.
+There are 154048 single-paired board, that is 30.8096%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+151 quads.
+4129 full houses
+144330 flushes.
+-> admist those, hero wins 144330, opponent wins 0.
+You win 495720 rounds.
+----Rates----
+Opponent full house rate: 0.8258%.
+Opponent quads rate: 0.0302%.
+Opponent flush rate: 28.866000000000003%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 99.144%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346008 no-paired board, that is 69.2016%.
+There are 153992 single-paired board, that is 30.7984%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+155 quads.
+4237 full houses
+144883 flushes.
+-> admist those, hero wins 144883, opponent wins 0.
+You win 495608 rounds.
+----Rates----
+Opponent full house rate: 0.8474%.
+Opponent quads rate: 0.031%.
+Opponent flush rate: 28.9766%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 99.1216%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346687 no-paired board, that is 69.3374%.
+There are 153313 single-paired board, that is 30.6626%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+179 quads.
+4196 full houses
+144690 flushes.
+-> admist those, hero wins 144690, opponent wins 0.
+You win 495625 rounds.
+----Rates----
+Opponent full house rate: 0.8392000000000001%.
+Opponent quads rate: 0.0358%.
+Opponent flush rate: 28.938000000000002%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 99.125%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345821 no-paired board, that is 69.1642%.
+There are 154179 single-paired board, that is 30.8358%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+142 quads.
+4222 full houses
+144908 flushes.
+-> admist those, hero wins 144908, opponent wins 0.
+You win 495636 rounds.
+----Rates----
+Opponent full house rate: 0.8444%.
+Opponent quads rate: 0.0284%.
+Opponent flush rate: 28.9816%.
+When opponent has flush, My flush_and_win rate: 100.0%
+Total win rate: 99.1272%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-7-K
+how many rounds? 500000
+force the hero to draw a card? enter here: K
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346361 no-paired board, that is 69.2722%.
+There are 153639 single-paired board, that is 30.7278%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+162 quads.
+4256 full houses
+144639 flushes.
+-> admist those, hero wins 130542, opponent wins 14097.
+You win 481485 rounds.
+----Rates----
+Opponent full house rate: 0.8512000000000001%.
+Opponent quads rate: 0.0324%.
+Opponent flush rate: 28.927799999999998%.
+When opponent has flush, My flush_and_win rate: 90.25366602368656%
+Total win rate: 96.297%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346385 no-paired board, that is 69.277%.
+There are 153615 single-paired board, that is 30.723%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+166 quads.
+4138 full houses
+145599 flushes.
+-> admist those, hero wins 131396, opponent wins 14203.
+You win 481493 rounds.
+----Rates----
+Opponent full house rate: 0.8276%.
+Opponent quads rate: 0.0332%.
+Opponent flush rate: 29.1198%.
+When opponent has flush, My flush_and_win rate: 90.24512530992658%
+Total win rate: 96.29860000000001%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346124 no-paired board, that is 69.2248%.
+There are 153876 single-paired board, that is 30.7752%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+155 quads.
+4165 full houses
+144733 flushes.
+-> admist those, hero wins 130720, opponent wins 14013.
+You win 481667 rounds.
+----Rates----
+Opponent full house rate: 0.8330000000000001%.
+Opponent quads rate: 0.031%.
+Opponent flush rate: 28.9466%.
+When opponent has flush, My flush_and_win rate: 90.3180338968998%
+Total win rate: 96.3334%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346403 no-paired board, that is 69.2806%.
+There are 153597 single-paired board, that is 30.7194%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+133 quads.
+4185 full houses
+145463 flushes.
+-> admist those, hero wins 131283, opponent wins 14180.
+You win 481502 rounds.
+----Rates----
+Opponent full house rate: 0.8370000000000001%.
+Opponent quads rate: 0.026600000000000002%.
+Opponent flush rate: 29.0926%.
+When opponent has flush, My flush_and_win rate: 90.25181661315936%
+Total win rate: 96.3004%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346376 no-paired board, that is 69.2752%.
+There are 153624 single-paired board, that is 30.7248%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+168 quads.
+4099 full houses
+144741 flushes.
+-> admist those, hero wins 130681, opponent wins 14060.
+You win 481673 rounds.
+----Rates----
+Opponent full house rate: 0.8198000000000001%.
+Opponent quads rate: 0.0336%.
+Opponent flush rate: 28.9482%.
+When opponent has flush, My flush_and_win rate: 90.28609723575214%
+Total win rate: 96.33460000000001%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346292 no-paired board, that is 69.2584%.
+There are 153708 single-paired board, that is 30.7416%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+165 quads.
+4096 full houses
+144590 flushes.
+-> admist those, hero wins 130596, opponent wins 13994.
+You win 481745 rounds.
+----Rates----
+Opponent full house rate: 0.8191999999999999%.
+Opponent quads rate: 0.033%.
+Opponent flush rate: 28.918%.
+When opponent has flush, My flush_and_win rate: 90.3215990040805%
+Total win rate: 96.34899999999999%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346197 no-paired board, that is 69.2394%.
+There are 153803 single-paired board, that is 30.7606%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+149 quads.
+4188 full houses
+145654 flushes.
+-> admist those, hero wins 131406, opponent wins 14248.
+You win 481415 rounds.
+----Rates----
+Opponent full house rate: 0.8376%.
+Opponent quads rate: 0.029799999999999997%.
+Opponent flush rate: 29.1308%.
+When opponent has flush, My flush_and_win rate: 90.21791368585826%
+Total win rate: 96.283%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345828 no-paired board, that is 69.1656%.
+There are 154172 single-paired board, that is 30.8344%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+157 quads.
+4178 full houses
+144617 flushes.
+-> admist those, hero wins 130263, opponent wins 14354.
+You win 481311 rounds.
+----Rates----
+Opponent full house rate: 0.8356%.
+Opponent quads rate: 0.0314%.
+Opponent flush rate: 28.9234%.
+When opponent has flush, My flush_and_win rate: 90.07447257238084%
+Total win rate: 96.26219999999999%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345960 no-paired board, that is 69.192%.
+There are 154040 single-paired board, that is 30.808%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+150 quads.
+4194 full houses
+145084 flushes.
+-> admist those, hero wins 130947, opponent wins 14137.
+You win 481519 rounds.
+----Rates----
+Opponent full house rate: 0.8388%.
+Opponent quads rate: 0.03%.
+Opponent flush rate: 29.016799999999996%.
+When opponent has flush, My flush_and_win rate: 90.25598963359157%
+Total win rate: 96.3038%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346452 no-paired board, that is 69.2904%.
+There are 153548 single-paired board, that is 30.7096%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+155 quads.
+4181 full houses
+145154 flushes.
+-> admist those, hero wins 131037, opponent wins 14117.
+You win 481547 rounds.
+----Rates----
+Opponent full house rate: 0.8361999999999999%.
+Opponent quads rate: 0.031%.
+Opponent flush rate: 29.0308%.
+When opponent has flush, My flush_and_win rate: 90.27446711768191%
+Total win rate: 96.3094%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-7-Q
+how many rounds? 500000
+force the hero to draw a card? enter here: Q
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346411 no-paired board, that is 69.2822%.
+There are 153589 single-paired board, that is 30.7178%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+164 quads.
+4135 full houses
+145056 flushes.
+-> admist those, hero wins 116877, opponent wins 28179.
+You win 467522 rounds.
+----Rates----
+Opponent full house rate: 0.827%.
+Opponent quads rate: 0.0328%.
+Opponent flush rate: 29.0112%.
+When opponent has flush, My flush_and_win rate: 80.57370946393118%
+Total win rate: 93.5044%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346159 no-paired board, that is 69.2318%.
+There are 153841 single-paired board, that is 30.7682%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+162 quads.
+4143 full houses
+144942 flushes.
+-> admist those, hero wins 116892, opponent wins 28050.
+You win 467645 rounds.
+----Rates----
+Opponent full house rate: 0.8286%.
+Opponent quads rate: 0.0324%.
+Opponent flush rate: 28.9884%.
+When opponent has flush, My flush_and_win rate: 80.64743138634765%
+Total win rate: 93.529%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346300 no-paired board, that is 69.26%.
+There are 153700 single-paired board, that is 30.74%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+142 quads.
+4199 full houses
+145060 flushes.
+-> admist those, hero wins 117103, opponent wins 27957.
+You win 467702 rounds.
+----Rates----
+Opponent full house rate: 0.8397999999999999%.
+Opponent quads rate: 0.0284%.
+Opponent flush rate: 29.012%.
+When opponent has flush, My flush_and_win rate: 80.72728526127119%
+Total win rate: 93.5404%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346610 no-paired board, that is 69.322%.
+There are 153390 single-paired board, that is 30.678%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+164 quads.
+4197 full houses
+145331 flushes.
+-> admist those, hero wins 117213, opponent wins 28118.
+You win 467521 rounds.
+----Rates----
+Opponent full house rate: 0.8394%.
+Opponent quads rate: 0.0328%.
+Opponent flush rate: 29.0662%.
+When opponent has flush, My flush_and_win rate: 80.65244166764145%
+Total win rate: 93.5042%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346293 no-paired board, that is 69.2586%.
+There are 153707 single-paired board, that is 30.7414%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+159 quads.
+4137 full houses
+145032 flushes.
+-> admist those, hero wins 117022, opponent wins 28010.
+You win 467694 rounds.
+----Rates----
+Opponent full house rate: 0.8274%.
+Opponent quads rate: 0.031799999999999995%.
+Opponent flush rate: 29.0064%.
+When opponent has flush, My flush_and_win rate: 80.68702079541067%
+Total win rate: 93.5388%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346656 no-paired board, that is 69.3312%.
+There are 153344 single-paired board, that is 30.6688%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+150 quads.
+4133 full houses
+145224 flushes.
+-> admist those, hero wins 117041, opponent wins 28183.
+You win 467534 rounds.
+----Rates----
+Opponent full house rate: 0.8266000000000001%.
+Opponent quads rate: 0.03%.
+Opponent flush rate: 29.0448%.
+When opponent has flush, My flush_and_win rate: 80.59342808351236%
+Total win rate: 93.5068%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346275 no-paired board, that is 69.255%.
+There are 153725 single-paired board, that is 30.745%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+150 quads.
+4206 full houses
+145071 flushes.
+-> admist those, hero wins 116886, opponent wins 28185.
+You win 467459 rounds.
+----Rates----
+Opponent full house rate: 0.8412%.
+Opponent quads rate: 0.03%.
+Opponent flush rate: 29.014200000000002%.
+When opponent has flush, My flush_and_win rate: 80.57158219078934%
+Total win rate: 93.4918%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346745 no-paired board, that is 69.349%.
+There are 153255 single-paired board, that is 30.651%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+161 quads.
+4187 full houses
+145627 flushes.
+-> admist those, hero wins 117374, opponent wins 28253.
+You win 467399 rounds.
+----Rates----
+Opponent full house rate: 0.8373999999999999%.
+Opponent quads rate: 0.0322%.
+Opponent flush rate: 29.125400000000003%.
+When opponent has flush, My flush_and_win rate: 80.5990647338749%
+Total win rate: 93.4798%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345760 no-paired board, that is 69.152%.
+There are 154240 single-paired board, that is 30.848%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+162 quads.
+4109 full houses
+145170 flushes.
+-> admist those, hero wins 117137, opponent wins 28033.
+You win 467696 rounds.
+----Rates----
+Opponent full house rate: 0.8218%.
+Opponent quads rate: 0.0324%.
+Opponent flush rate: 29.034%.
+When opponent has flush, My flush_and_win rate: 80.68953640559344%
+Total win rate: 93.5392%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346658 no-paired board, that is 69.3316%.
+There are 153342 single-paired board, that is 30.6684%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+148 quads.
+4124 full houses
+145032 flushes.
+-> admist those, hero wins 117017, opponent wins 28015.
+You win 467713 rounds.
+----Rates----
+Opponent full house rate: 0.8248%.
+Opponent quads rate: 0.029599999999999998%.
+Opponent flush rate: 29.0064%.
+When opponent has flush, My flush_and_win rate: 80.6835732803795%
+Total win rate: 93.5426%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-7-J
+how many rounds? 500000
+force the hero to draw a card? enter here: J
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346831 no-paired board, that is 69.3662%.
+There are 153169 single-paired board, that is 30.6338%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+166 quads.
+4109 full houses
+144589 flushes.
+-> admist those, hero wins 102746, opponent wins 41843.
+You win 453882 rounds.
+----Rates----
+Opponent full house rate: 0.8218%.
+Opponent quads rate: 0.0332%.
+Opponent flush rate: 28.9178%.
+When opponent has flush, My flush_and_win rate: 71.06073076098458%
+Total win rate: 90.7764%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346231 no-paired board, that is 69.2462%.
+There are 153769 single-paired board, that is 30.7538%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+170 quads.
+4088 full houses
+144423 flushes.
+-> admist those, hero wins 102870, opponent wins 41553.
+You win 454189 rounds.
+----Rates----
+Opponent full house rate: 0.8175999999999999%.
+Opponent quads rate: 0.034%.
+Opponent flush rate: 28.8846%.
+When opponent has flush, My flush_and_win rate: 71.228266965788%
+Total win rate: 90.8378%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346547 no-paired board, that is 69.3094%.
+There are 153453 single-paired board, that is 30.6906%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+165 quads.
+4269 full houses
+145075 flushes.
+-> admist those, hero wins 103163, opponent wins 41912.
+You win 453654 rounds.
+----Rates----
+Opponent full house rate: 0.8538%.
+Opponent quads rate: 0.033%.
+Opponent flush rate: 29.015%.
+When opponent has flush, My flush_and_win rate: 71.11011545752197%
+Total win rate: 90.7308%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346231 no-paired board, that is 69.2462%.
+There are 153769 single-paired board, that is 30.7538%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+134 quads.
+4062 full houses
+145680 flushes.
+-> admist those, hero wins 103602, opponent wins 42078.
+You win 453726 rounds.
+----Rates----
+Opponent full house rate: 0.8123999999999999%.
+Opponent quads rate: 0.0268%.
+Opponent flush rate: 29.136%.
+When opponent has flush, My flush_and_win rate: 71.1161449752883%
+Total win rate: 90.7452%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346679 no-paired board, that is 69.3358%.
+There are 153321 single-paired board, that is 30.6642%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+163 quads.
+4080 full houses
+144881 flushes.
+-> admist those, hero wins 102788, opponent wins 42093.
+You win 453664 rounds.
+----Rates----
+Opponent full house rate: 0.8160000000000001%.
+Opponent quads rate: 0.032600000000000004%.
+Opponent flush rate: 28.976200000000002%.
+When opponent has flush, My flush_and_win rate: 70.94650092144587%
+Total win rate: 90.7328%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346549 no-paired board, that is 69.3098%.
+There are 153451 single-paired board, that is 30.6902%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+156 quads.
+4214 full houses
+145006 flushes.
+-> admist those, hero wins 103120, opponent wins 41886.
+You win 453744 rounds.
+----Rates----
+Opponent full house rate: 0.8428%.
+Opponent quads rate: 0.0312%.
+Opponent flush rate: 29.0012%.
+When opponent has flush, My flush_and_win rate: 71.11429871867371%
+Total win rate: 90.7488%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346028 no-paired board, that is 69.2056%.
+There are 153972 single-paired board, that is 30.7944%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+151 quads.
+4192 full houses
+145456 flushes.
+-> admist those, hero wins 103321, opponent wins 42135.
+You win 453522 rounds.
+----Rates----
+Opponent full house rate: 0.8384%.
+Opponent quads rate: 0.0302%.
+Opponent flush rate: 29.0912%.
+When opponent has flush, My flush_and_win rate: 71.03247717522825%
+Total win rate: 90.70439999999999%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345944 no-paired board, that is 69.1888%.
+There are 154056 single-paired board, that is 30.8112%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+147 quads.
+4426 full houses
+144847 flushes.
+-> admist those, hero wins 102964, opponent wins 41883.
+You win 453544 rounds.
+----Rates----
+Opponent full house rate: 0.8852000000000001%.
+Opponent quads rate: 0.0294%.
+Opponent flush rate: 28.9694%.
+When opponent has flush, My flush_and_win rate: 71.08466174653255%
+Total win rate: 90.7088%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346120 no-paired board, that is 69.224%.
+There are 153880 single-paired board, that is 30.776%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+150 quads.
+4204 full houses
+144766 flushes.
+-> admist those, hero wins 102578, opponent wins 42188.
+You win 453458 rounds.
+----Rates----
+Opponent full house rate: 0.8408000000000001%.
+Opponent quads rate: 0.03%.
+Opponent flush rate: 28.953200000000002%.
+When opponent has flush, My flush_and_win rate: 70.85779810176422%
+Total win rate: 90.69160000000001%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345742 no-paired board, that is 69.1484%.
+There are 154258 single-paired board, that is 30.8516%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+162 quads.
+4222 full houses
+145163 flushes.
+-> admist those, hero wins 103385, opponent wins 41778.
+You win 453838 rounds.
+----Rates----
+Opponent full house rate: 0.8444%.
+Opponent quads rate: 0.0324%.
+Opponent flush rate: 29.0326%.
+When opponent has flush, My flush_and_win rate: 71.2199389651633%
+Total win rate: 90.7676%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-7-10
+how many rounds? 500000
+force the hero to draw a card? enter here: 10
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345562 no-paired board, that is 69.1124%.
+There are 154438 single-paired board, that is 30.8876%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+160 quads.
+4135 full houses
+144444 flushes.
+-> admist those, hero wins 89078, opponent wins 55366.
+You win 440339 rounds.
+----Rates----
+Opponent full house rate: 0.827%.
+Opponent quads rate: 0.032%.
+Opponent flush rate: 28.888799999999996%.
+When opponent has flush, My flush_and_win rate: 61.66957436792113%
+Total win rate: 88.06779999999999%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345852 no-paired board, that is 69.1704%.
+There are 154148 single-paired board, that is 30.8296%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+175 quads.
+4243 full houses
+145537 flushes.
+-> admist those, hero wins 89818, opponent wins 55719.
+You win 439863 rounds.
+----Rates----
+Opponent full house rate: 0.8486%.
+Opponent quads rate: 0.034999999999999996%.
+Opponent flush rate: 29.1074%.
+When opponent has flush, My flush_and_win rate: 61.714890371520646%
+Total win rate: 87.9726%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346130 no-paired board, that is 69.226%.
+There are 153870 single-paired board, that is 30.774%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+156 quads.
+4183 full houses
+145100 flushes.
+-> admist those, hero wins 89584, opponent wins 55516.
+You win 440145 rounds.
+----Rates----
+Opponent full house rate: 0.8366%.
+Opponent quads rate: 0.0312%.
+Opponent flush rate: 29.020000000000003%.
+When opponent has flush, My flush_and_win rate: 61.73949000689179%
+Total win rate: 88.029%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345820 no-paired board, that is 69.164%.
+There are 154180 single-paired board, that is 30.836%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+142 quads.
+4276 full houses
+144415 flushes.
+-> admist those, hero wins 89301, opponent wins 55114.
+You win 440468 rounds.
+----Rates----
+Opponent full house rate: 0.8552000000000001%.
+Opponent quads rate: 0.0284%.
+Opponent flush rate: 28.883%.
+When opponent has flush, My flush_and_win rate: 61.83637433784579%
+Total win rate: 88.09360000000001%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345514 no-paired board, that is 69.1028%.
+There are 154486 single-paired board, that is 30.8972%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+172 quads.
+4262 full houses
+144711 flushes.
+-> admist those, hero wins 89559, opponent wins 55152.
+You win 440414 rounds.
+----Rates----
+Opponent full house rate: 0.8524%.
+Opponent quads rate: 0.0344%.
+Opponent flush rate: 28.9422%.
+When opponent has flush, My flush_and_win rate: 61.88817712544312%
+Total win rate: 88.0828%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346468 no-paired board, that is 69.2936%.
+There are 153532 single-paired board, that is 30.7064%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+145 quads.
+4389 full houses
+144332 flushes.
+-> admist those, hero wins 89175, opponent wins 55157.
+You win 440309 rounds.
+----Rates----
+Opponent full house rate: 0.8777999999999999%.
+Opponent quads rate: 0.029%.
+Opponent flush rate: 28.8664%.
+When opponent has flush, My flush_and_win rate: 61.78463542388383%
+Total win rate: 88.0618%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346626 no-paired board, that is 69.3252%.
+There are 153374 single-paired board, that is 30.6748%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+146 quads.
+4128 full houses
+144931 flushes.
+-> admist those, hero wins 89545, opponent wins 55386.
+You win 440340 rounds.
+----Rates----
+Opponent full house rate: 0.8255999999999999%.
+Opponent quads rate: 0.0292%.
+Opponent flush rate: 28.9862%.
+When opponent has flush, My flush_and_win rate: 61.784573348696966%
+Total win rate: 88.068%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346515 no-paired board, that is 69.303%.
+There are 153485 single-paired board, that is 30.697%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+164 quads.
+4176 full houses
+144530 flushes.
+-> admist those, hero wins 89027, opponent wins 55503.
+You win 440157 rounds.
+----Rates----
+Opponent full house rate: 0.8352%.
+Opponent quads rate: 0.0328%.
+Opponent flush rate: 28.906%.
+When opponent has flush, My flush_and_win rate: 61.59759219539196%
+Total win rate: 88.0314%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346190 no-paired board, that is 69.238%.
+There are 153810 single-paired board, that is 30.762%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+177 quads.
+4270 full houses
+144639 flushes.
+-> admist those, hero wins 89322, opponent wins 55317.
+You win 440236 rounds.
+----Rates----
+Opponent full house rate: 0.8540000000000001%.
+Opponent quads rate: 0.0354%.
+Opponent flush rate: 28.927799999999998%.
+When opponent has flush, My flush_and_win rate: 61.75512828490242%
+Total win rate: 88.0472%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345930 no-paired board, that is 69.186%.
+There are 154070 single-paired board, that is 30.814%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+159 quads.
+4178 full houses
+144440 flushes.
+-> admist those, hero wins 89455, opponent wins 54985.
+You win 440678 rounds.
+----Rates----
+Opponent full house rate: 0.8356%.
+Opponent quads rate: 0.031799999999999995%.
+Opponent flush rate: 28.888%.
+When opponent has flush, My flush_and_win rate: 61.93229022431459%
+Total win rate: 88.1356%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-7-9
+how many rounds? 500000
+force the hero to draw a card? enter here: 9
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346313 no-paired board, that is 69.2626%.
+There are 153687 single-paired board, that is 30.7374%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+154 quads.
+4163 full houses
+144893 flushes.
+-> admist those, hero wins 76209, opponent wins 68684.
+You win 426999 rounds.
+----Rates----
+Opponent full house rate: 0.8326%.
+Opponent quads rate: 0.0308%.
+Opponent flush rate: 28.9786%.
+When opponent has flush, My flush_and_win rate: 52.59674380404851%
+Total win rate: 85.3998%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346190 no-paired board, that is 69.238%.
+There are 153810 single-paired board, that is 30.762%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+180 quads.
+4200 full houses
+144754 flushes.
+-> admist those, hero wins 75852, opponent wins 68902.
+You win 426718 rounds.
+----Rates----
+Opponent full house rate: 0.84%.
+Opponent quads rate: 0.036000000000000004%.
+Opponent flush rate: 28.950799999999997%.
+When opponent has flush, My flush_and_win rate: 52.40062450778562%
+Total win rate: 85.3436%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346463 no-paired board, that is 69.2926%.
+There are 153537 single-paired board, that is 30.7074%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+150 quads.
+4171 full houses
+145001 flushes.
+-> admist those, hero wins 76158, opponent wins 68843.
+You win 426836 rounds.
+----Rates----
+Opponent full house rate: 0.8342%.
+Opponent quads rate: 0.03%.
+Opponent flush rate: 29.0002%.
+When opponent has flush, My flush_and_win rate: 52.52239639726623%
+Total win rate: 85.3672%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346371 no-paired board, that is 69.2742%.
+There are 153629 single-paired board, that is 30.7258%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+149 quads.
+4140 full houses
+144836 flushes.
+-> admist those, hero wins 75729, opponent wins 69107.
+You win 426604 rounds.
+----Rates----
+Opponent full house rate: 0.828%.
+Opponent quads rate: 0.029799999999999997%.
+Opponent flush rate: 28.9672%.
+When opponent has flush, My flush_and_win rate: 52.286033858985334%
+Total win rate: 85.32079999999999%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345285 no-paired board, that is 69.057%.
+There are 154715 single-paired board, that is 30.943%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+151 quads.
+4322 full houses
+145032 flushes.
+-> admist those, hero wins 76088, opponent wins 68944.
+You win 426583 rounds.
+----Rates----
+Opponent full house rate: 0.8644000000000001%.
+Opponent quads rate: 0.0302%.
+Opponent flush rate: 29.0064%.
+When opponent has flush, My flush_and_win rate: 52.46290473826466%
+Total win rate: 85.3166%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346174 no-paired board, that is 69.2348%.
+There are 153826 single-paired board, that is 30.7652%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+169 quads.
+4173 full houses
+144791 flushes.
+-> admist those, hero wins 76307, opponent wins 68484.
+You win 427174 rounds.
+----Rates----
+Opponent full house rate: 0.8345999999999999%.
+Opponent quads rate: 0.0338%.
+Opponent flush rate: 28.9582%.
+When opponent has flush, My flush_and_win rate: 52.701480064368646%
+Total win rate: 85.4348%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346464 no-paired board, that is 69.2928%.
+There are 153536 single-paired board, that is 30.7072%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+150 quads.
+4243 full houses
+144875 flushes.
+-> admist those, hero wins 76224, opponent wins 68651.
+You win 426956 rounds.
+----Rates----
+Opponent full house rate: 0.8486%.
+Opponent quads rate: 0.03%.
+Opponent flush rate: 28.975%.
+When opponent has flush, My flush_and_win rate: 52.61363244176014%
+Total win rate: 85.3912%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346441 no-paired board, that is 69.2882%.
+There are 153559 single-paired board, that is 30.7118%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+145 quads.
+4130 full houses
+144534 flushes.
+-> admist those, hero wins 75779, opponent wins 68755.
+You win 426970 rounds.
+----Rates----
+Opponent full house rate: 0.826%.
+Opponent quads rate: 0.029%.
+Opponent flush rate: 28.9068%.
+When opponent has flush, My flush_and_win rate: 52.42987809096822%
+Total win rate: 85.394%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346030 no-paired board, that is 69.206%.
+There are 153970 single-paired board, that is 30.794%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+167 quads.
+4136 full houses
+145561 flushes.
+-> admist those, hero wins 76887, opponent wins 68674.
+You win 427023 rounds.
+----Rates----
+Opponent full house rate: 0.8271999999999999%.
+Opponent quads rate: 0.0334%.
+Opponent flush rate: 29.112199999999998%.
+When opponent has flush, My flush_and_win rate: 52.82115401790315%
+Total win rate: 85.4046%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346056 no-paired board, that is 69.2112%.
+There are 153944 single-paired board, that is 30.7888%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+196 quads.
+4181 full houses
+144596 flushes.
+-> admist those, hero wins 75751, opponent wins 68845.
+You win 426778 rounds.
+----Rates----
+Opponent full house rate: 0.8361999999999999%.
+Opponent quads rate: 0.0392%.
+Opponent flush rate: 28.9192%.
+When opponent has flush, My flush_and_win rate: 52.38803286397964%
+Total win rate: 85.3556%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-7-8
+how many rounds? 500000
+force the hero to draw a card? enter here: 8
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345901 no-paired board, that is 69.1802%.
+There are 154099 single-paired board, that is 30.8198%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+165 quads.
+4205 full houses
+144934 flushes.
+-> admist those, hero wins 63124, opponent wins 81810.
+You win 413820 rounds.
+----Rates----
+Opponent full house rate: 0.8410000000000001%.
+Opponent quads rate: 0.033%.
+Opponent flush rate: 28.986800000000002%.
+When opponent has flush, My flush_and_win rate: 43.553617508659116%
+Total win rate: 82.76400000000001%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346487 no-paired board, that is 69.2974%.
+There are 153513 single-paired board, that is 30.7026%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+170 quads.
+4122 full houses
+144796 flushes.
+-> admist those, hero wins 62756, opponent wins 82040.
+You win 413668 rounds.
+----Rates----
+Opponent full house rate: 0.8243999999999999%.
+Opponent quads rate: 0.034%.
+Opponent flush rate: 28.959200000000003%.
+When opponent has flush, My flush_and_win rate: 43.34097627006271%
+Total win rate: 82.7336%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346452 no-paired board, that is 69.2904%.
+There are 153548 single-paired board, that is 30.7096%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+155 quads.
+4216 full houses
+145221 flushes.
+-> admist those, hero wins 63084, opponent wins 82137.
+You win 413492 rounds.
+----Rates----
+Opponent full house rate: 0.8432000000000001%.
+Opponent quads rate: 0.031%.
+Opponent flush rate: 29.044199999999996%.
+When opponent has flush, My flush_and_win rate: 43.43999834734646%
+Total win rate: 82.6984%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346639 no-paired board, that is 69.3278%.
+There are 153361 single-paired board, that is 30.6722%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+154 quads.
+4294 full houses
+145146 flushes.
+-> admist those, hero wins 63214, opponent wins 81932.
+You win 413620 rounds.
+----Rates----
+Opponent full house rate: 0.8588%.
+Opponent quads rate: 0.0308%.
+Opponent flush rate: 29.0292%.
+When opponent has flush, My flush_and_win rate: 43.55200970057735%
+Total win rate: 82.724%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345937 no-paired board, that is 69.1874%.
+There are 154063 single-paired board, that is 30.8126%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+144 quads.
+4174 full houses
+144958 flushes.
+-> admist those, hero wins 62768, opponent wins 82190.
+You win 413492 rounds.
+----Rates----
+Opponent full house rate: 0.8348%.
+Opponent quads rate: 0.0288%.
+Opponent flush rate: 28.991600000000002%.
+When opponent has flush, My flush_and_win rate: 43.30081816802108%
+Total win rate: 82.6984%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345515 no-paired board, that is 69.103%.
+There are 154485 single-paired board, that is 30.897%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+176 quads.
+4248 full houses
+145427 flushes.
+-> admist those, hero wins 63088, opponent wins 82339.
+You win 413237 rounds.
+----Rates----
+Opponent full house rate: 0.8496%.
+Opponent quads rate: 0.0352%.
+Opponent flush rate: 29.0854%.
+When opponent has flush, My flush_and_win rate: 43.38121531765078%
+Total win rate: 82.6474%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345809 no-paired board, that is 69.1618%.
+There are 154191 single-paired board, that is 30.8382%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+171 quads.
+4109 full houses
+144655 flushes.
+-> admist those, hero wins 62529, opponent wins 82126.
+You win 413594 rounds.
+----Rates----
+Opponent full house rate: 0.8218%.
+Opponent quads rate: 0.0342%.
+Opponent flush rate: 28.931%.
+When opponent has flush, My flush_and_win rate: 43.22629705160554%
+Total win rate: 82.7188%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 347118 no-paired board, that is 69.4236%.
+There are 152882 single-paired board, that is 30.5764%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+150 quads.
+4136 full houses
+145443 flushes.
+-> admist those, hero wins 63156, opponent wins 82287.
+You win 413427 rounds.
+----Rates----
+Opponent full house rate: 0.8271999999999999%.
+Opponent quads rate: 0.03%.
+Opponent flush rate: 29.0886%.
+When opponent has flush, My flush_and_win rate: 43.42319671623935%
+Total win rate: 82.6854%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346681 no-paired board, that is 69.3362%.
+There are 153319 single-paired board, that is 30.6638%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+161 quads.
+4174 full houses
+145347 flushes.
+-> admist those, hero wins 63042, opponent wins 82305.
+You win 413360 rounds.
+----Rates----
+Opponent full house rate: 0.8348%.
+Opponent quads rate: 0.0322%.
+Opponent flush rate: 29.0694%.
+When opponent has flush, My flush_and_win rate: 43.373444240335196%
+Total win rate: 82.672%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346358 no-paired board, that is 69.2716%.
+There are 153642 single-paired board, that is 30.7284%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+165 quads.
+4114 full houses
+145363 flushes.
+-> admist those, hero wins 63244, opponent wins 82119.
+You win 413602 rounds.
+----Rates----
+Opponent full house rate: 0.8228%.
+Opponent quads rate: 0.033%.
+Opponent flush rate: 29.072599999999998%.
+When opponent has flush, My flush_and_win rate: 43.50763261627787%
+Total win rate: 82.72040000000001%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-7-7
+how many rounds? 500000
+force the hero to draw a card? enter here: 7
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345994 no-paired board, that is 69.1988%.
+There are 154006 single-paired board, that is 30.8012%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+155 quads.
+4077 full houses
+145402 flushes.
+-> admist those, hero wins 50106, opponent wins 95296.
+You win 400472 rounds.
+----Rates----
+Opponent full house rate: 0.8154%.
+Opponent quads rate: 0.031%.
+Opponent flush rate: 29.0804%.
+When opponent has flush, My flush_and_win rate: 34.46032379196985%
+Total win rate: 80.0944%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346306 no-paired board, that is 69.2612%.
+There are 153694 single-paired board, that is 30.7388%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+155 quads.
+4214 full houses
+145623 flushes.
+-> admist those, hero wins 50374, opponent wins 95249.
+You win 400382 rounds.
+----Rates----
+Opponent full house rate: 0.8428%.
+Opponent quads rate: 0.031%.
+Opponent flush rate: 29.1246%.
+When opponent has flush, My flush_and_win rate: 34.59206306696058%
+Total win rate: 80.0764%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346252 no-paired board, that is 69.2504%.
+There are 153748 single-paired board, that is 30.7496%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+139 quads.
+4236 full houses
+145276 flushes.
+-> admist those, hero wins 49969, opponent wins 95307.
+You win 400318 rounds.
+----Rates----
+Opponent full house rate: 0.8472000000000001%.
+Opponent quads rate: 0.0278%.
+Opponent flush rate: 29.0552%.
+When opponent has flush, My flush_and_win rate: 34.39590847765632%
+Total win rate: 80.06360000000001%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345862 no-paired board, that is 69.1724%.
+There are 154138 single-paired board, that is 30.8276%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+126 quads.
+4236 full houses
+144756 flushes.
+-> admist those, hero wins 49830, opponent wins 94926.
+You win 400712 rounds.
+----Rates----
+Opponent full house rate: 0.8472000000000001%.
+Opponent quads rate: 0.0252%.
+Opponent flush rate: 28.9512%.
+When opponent has flush, My flush_and_win rate: 34.423443587830555%
+Total win rate: 80.14240000000001%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346301 no-paired board, that is 69.2602%.
+There are 153699 single-paired board, that is 30.7398%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+143 quads.
+4067 full houses
+144637 flushes.
+-> admist those, hero wins 50029, opponent wins 94608.
+You win 401182 rounds.
+----Rates----
+Opponent full house rate: 0.8134%.
+Opponent quads rate: 0.0286%.
+Opponent flush rate: 28.9274%.
+When opponent has flush, My flush_and_win rate: 34.589351272495975%
+Total win rate: 80.2364%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346876 no-paired board, that is 69.3752%.
+There are 153124 single-paired board, that is 30.6248%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+163 quads.
+4075 full houses
+144662 flushes.
+-> admist those, hero wins 49622, opponent wins 95040.
+You win 400722 rounds.
+----Rates----
+Opponent full house rate: 0.815%.
+Opponent quads rate: 0.032600000000000004%.
+Opponent flush rate: 28.9324%.
+When opponent has flush, My flush_and_win rate: 34.302028176024116%
+Total win rate: 80.1444%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345644 no-paired board, that is 69.1288%.
+There are 154356 single-paired board, that is 30.8712%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+143 quads.
+4152 full houses
+145002 flushes.
+-> admist those, hero wins 49759, opponent wins 95243.
+You win 400462 rounds.
+----Rates----
+Opponent full house rate: 0.8304%.
+Opponent quads rate: 0.0286%.
+Opponent flush rate: 29.0004%.
+When opponent has flush, My flush_and_win rate: 34.316078398918634%
+Total win rate: 80.0924%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345929 no-paired board, that is 69.1858%.
+There are 154071 single-paired board, that is 30.8142%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+157 quads.
+4257 full houses
+145014 flushes.
+-> admist those, hero wins 50003, opponent wins 95011.
+You win 400575 rounds.
+----Rates----
+Opponent full house rate: 0.8514%.
+Opponent quads rate: 0.0314%.
+Opponent flush rate: 29.0028%.
+When opponent has flush, My flush_and_win rate: 34.48149833809149%
+Total win rate: 80.11500000000001%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346118 no-paired board, that is 69.2236%.
+There are 153882 single-paired board, that is 30.7764%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+150 quads.
+4206 full houses
+145119 flushes.
+-> admist those, hero wins 49953, opponent wins 95166.
+You win 400478 rounds.
+----Rates----
+Opponent full house rate: 0.8412%.
+Opponent quads rate: 0.03%.
+Opponent flush rate: 29.0238%.
+When opponent has flush, My flush_and_win rate: 34.42209497033469%
+Total win rate: 80.0956%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345729 no-paired board, that is 69.1458%.
+There are 154271 single-paired board, that is 30.8542%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+133 quads.
+4131 full houses
+145604 flushes.
+-> admist those, hero wins 50299, opponent wins 95305.
+You win 400431 rounds.
+----Rates----
+Opponent full house rate: 0.8262%.
+Opponent quads rate: 0.026600000000000002%.
+Opponent flush rate: 29.120800000000003%.
+When opponent has flush, My flush_and_win rate: 34.54506744320211%
+Total win rate: 80.08619999999999%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-7-6
+how many rounds? 500000
+force the hero to draw a card? enter here: 6
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346002 no-paired board, that is 69.2004%.
+There are 153998 single-paired board, that is 30.7996%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+149 quads.
+4286 full houses
+144866 flushes.
+-> admist those, hero wins 37006, opponent wins 107860.
+You win 387705 rounds.
+----Rates----
+Opponent full house rate: 0.8572%.
+Opponent quads rate: 0.029799999999999997%.
+Opponent flush rate: 28.9732%.
+When opponent has flush, My flush_and_win rate: 25.544986401225962%
+Total win rate: 77.54100000000001%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346012 no-paired board, that is 69.2024%.
+There are 153988 single-paired board, that is 30.7976%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+171 quads.
+4222 full houses
+145228 flushes.
+-> admist those, hero wins 37458, opponent wins 107770.
+You win 387837 rounds.
+----Rates----
+Opponent full house rate: 0.8444%.
+Opponent quads rate: 0.0342%.
+Opponent flush rate: 29.0456%.
+When opponent has flush, My flush_and_win rate: 25.792546891783953%
+Total win rate: 77.56739999999999%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346447 no-paired board, that is 69.2894%.
+There are 153553 single-paired board, that is 30.7106%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+157 quads.
+4239 full houses
+144777 flushes.
+-> admist those, hero wins 37149, opponent wins 107628.
+You win 387976 rounds.
+----Rates----
+Opponent full house rate: 0.8477999999999999%.
+Opponent quads rate: 0.0314%.
+Opponent flush rate: 28.955399999999997%.
+When opponent has flush, My flush_and_win rate: 25.6594624836818%
+Total win rate: 77.59519999999999%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345895 no-paired board, that is 69.179%.
+There are 154105 single-paired board, that is 30.821%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+134 quads.
+4262 full houses
+144831 flushes.
+-> admist those, hero wins 37173, opponent wins 107658.
+You win 387946 rounds.
+----Rates----
+Opponent full house rate: 0.8524%.
+Opponent quads rate: 0.0268%.
+Opponent flush rate: 28.966199999999997%.
+When opponent has flush, My flush_and_win rate: 25.666466433291212%
+Total win rate: 77.5892%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346123 no-paired board, that is 69.2246%.
+There are 153877 single-paired board, that is 30.7754%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+160 quads.
+4340 full houses
+145267 flushes.
+-> admist those, hero wins 37423, opponent wins 107844.
+You win 387656 rounds.
+----Rates----
+Opponent full house rate: 0.868%.
+Opponent quads rate: 0.032%.
+Opponent flush rate: 29.0534%.
+When opponent has flush, My flush_and_win rate: 25.761528771159313%
+Total win rate: 77.5312%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346205 no-paired board, that is 69.241%.
+There are 153795 single-paired board, that is 30.759%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+132 quads.
+4115 full houses
+145076 flushes.
+-> admist those, hero wins 37216, opponent wins 107860.
+You win 387893 rounds.
+----Rates----
+Opponent full house rate: 0.823%.
+Opponent quads rate: 0.026400000000000003%.
+Opponent flush rate: 29.015200000000004%.
+When opponent has flush, My flush_and_win rate: 25.652761311312695%
+Total win rate: 77.5786%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345998 no-paired board, that is 69.1996%.
+There are 154002 single-paired board, that is 30.8004%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+152 quads.
+4250 full houses
+144960 flushes.
+-> admist those, hero wins 37404, opponent wins 107556.
+You win 388042 rounds.
+----Rates----
+Opponent full house rate: 0.8500000000000001%.
+Opponent quads rate: 0.030400000000000003%.
+Opponent flush rate: 28.992%.
+When opponent has flush, My flush_and_win rate: 25.802980132450333%
+Total win rate: 77.6084%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346247 no-paired board, that is 69.2494%.
+There are 153753 single-paired board, that is 30.7506%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+134 quads.
+4230 full houses
+145018 flushes.
+-> admist those, hero wins 37099, opponent wins 107919.
+You win 387717 rounds.
+----Rates----
+Opponent full house rate: 0.8460000000000001%.
+Opponent quads rate: 0.0268%.
+Opponent flush rate: 29.003600000000002%.
+When opponent has flush, My flush_and_win rate: 25.58234150243418%
+Total win rate: 77.54339999999999%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346405 no-paired board, that is 69.281%.
+There are 153595 single-paired board, that is 30.719%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+151 quads.
+4184 full houses
+144814 flushes.
+-> admist those, hero wins 37135, opponent wins 107679.
+You win 387986 rounds.
+----Rates----
+Opponent full house rate: 0.8368%.
+Opponent quads rate: 0.0302%.
+Opponent flush rate: 28.9628%.
+When opponent has flush, My flush_and_win rate: 25.64323891336473%
+Total win rate: 77.5972%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346723 no-paired board, that is 69.3446%.
+There are 153277 single-paired board, that is 30.6554%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+183 quads.
+4179 full houses
+144837 flushes.
+-> admist those, hero wins 37084, opponent wins 107753.
+You win 387885 rounds.
+----Rates----
+Opponent full house rate: 0.8358000000000001%.
+Opponent quads rate: 0.0366%.
+Opponent flush rate: 28.967399999999998%.
+When opponent has flush, My flush_and_win rate: 25.60395479055766%
+Total win rate: 77.577%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-7-5
+how many rounds? 500000
+force the hero to draw a card? enter here: 5
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346253 no-paired board, that is 69.2506%.
+There are 153747 single-paired board, that is 30.7494%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+176 quads.
+4126 full houses
+144726 flushes.
+-> admist those, hero wins 24566, opponent wins 120160.
+You win 375538 rounds.
+----Rates----
+Opponent full house rate: 0.8252%.
+Opponent quads rate: 0.0352%.
+Opponent flush rate: 28.9452%.
+When opponent has flush, My flush_and_win rate: 16.97414424498708%
+Total win rate: 75.10759999999999%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346312 no-paired board, that is 69.2624%.
+There are 153688 single-paired board, that is 30.7376%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+169 quads.
+4214 full houses
+144991 flushes.
+-> admist those, hero wins 24605, opponent wins 120386.
+You win 375231 rounds.
+----Rates----
+Opponent full house rate: 0.8428%.
+Opponent quads rate: 0.0338%.
+Opponent flush rate: 28.9982%.
+When opponent has flush, My flush_and_win rate: 16.97001882875489%
+Total win rate: 75.0462%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346151 no-paired board, that is 69.2302%.
+There are 153849 single-paired board, that is 30.7698%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+134 quads.
+4261 full houses
+145430 flushes.
+-> admist those, hero wins 24735, opponent wins 120695.
+You win 374910 rounds.
+----Rates----
+Opponent full house rate: 0.8522%.
+Opponent quads rate: 0.0268%.
+Opponent flush rate: 29.086000000000002%.
+When opponent has flush, My flush_and_win rate: 17.00818263081895%
+Total win rate: 74.982%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345891 no-paired board, that is 69.1782%.
+There are 154109 single-paired board, that is 30.8218%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+164 quads.
+4101 full houses
+144999 flushes.
+-> admist those, hero wins 24728, opponent wins 120271.
+You win 375464 rounds.
+----Rates----
+Opponent full house rate: 0.8201999999999999%.
+Opponent quads rate: 0.0328%.
+Opponent flush rate: 28.999799999999997%.
+When opponent has flush, My flush_and_win rate: 17.05391071662563%
+Total win rate: 75.09280000000001%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346195 no-paired board, that is 69.239%.
+There are 153805 single-paired board, that is 30.761%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+147 quads.
+4221 full houses
+144727 flushes.
+-> admist those, hero wins 24860, opponent wins 119867.
+You win 375765 rounds.
+----Rates----
+Opponent full house rate: 0.8442%.
+Opponent quads rate: 0.0294%.
+Opponent flush rate: 28.9454%.
+When opponent has flush, My flush_and_win rate: 17.177168047427223%
+Total win rate: 75.153%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346456 no-paired board, that is 69.2912%.
+There are 153544 single-paired board, that is 30.7088%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+139 quads.
+4330 full houses
+144975 flushes.
+-> admist those, hero wins 24739, opponent wins 120236.
+You win 375295 rounds.
+----Rates----
+Opponent full house rate: 0.8659999999999999%.
+Opponent quads rate: 0.0278%.
+Opponent flush rate: 28.994999999999997%.
+When opponent has flush, My flush_and_win rate: 17.064321434730125%
+Total win rate: 75.059%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345795 no-paired board, that is 69.159%.
+There are 154205 single-paired board, that is 30.841%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+149 quads.
+4126 full houses
+145158 flushes.
+-> admist those, hero wins 24439, opponent wins 120719.
+You win 375006 rounds.
+----Rates----
+Opponent full house rate: 0.8252%.
+Opponent quads rate: 0.029799999999999997%.
+Opponent flush rate: 29.0316%.
+When opponent has flush, My flush_and_win rate: 16.83613717466485%
+Total win rate: 75.0012%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345943 no-paired board, that is 69.1886%.
+There are 154057 single-paired board, that is 30.8114%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+153 quads.
+4281 full houses
+145071 flushes.
+-> admist those, hero wins 24743, opponent wins 120328.
+You win 375238 rounds.
+----Rates----
+Opponent full house rate: 0.8562000000000001%.
+Opponent quads rate: 0.030600000000000002%.
+Opponent flush rate: 29.014200000000002%.
+When opponent has flush, My flush_and_win rate: 17.05578647696645%
+Total win rate: 75.0476%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346585 no-paired board, that is 69.317%.
+There are 153415 single-paired board, that is 30.683%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+148 quads.
+4199 full houses
+144637 flushes.
+-> admist those, hero wins 24485, opponent wins 120152.
+You win 375501 rounds.
+----Rates----
+Opponent full house rate: 0.8397999999999999%.
+Opponent quads rate: 0.029599999999999998%.
+Opponent flush rate: 28.9274%.
+When opponent has flush, My flush_and_win rate: 16.928586737833335%
+Total win rate: 75.1002%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345929 no-paired board, that is 69.1858%.
+There are 154071 single-paired board, that is 30.8142%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+144 quads.
+4273 full houses
+144920 flushes.
+-> admist those, hero wins 24641, opponent wins 120279.
+You win 375304 rounds.
+----Rates----
+Opponent full house rate: 0.8546%.
+Opponent quads rate: 0.0288%.
+Opponent flush rate: 28.983999999999998%.
+When opponent has flush, My flush_and_win rate: 17.003174165056585%
+Total win rate: 75.0608%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-7-4
+how many rounds? 500000
+force the hero to draw a card? enter here: 4
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346116 no-paired board, that is 69.2232%.
+There are 153884 single-paired board, that is 30.7768%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+168 quads.
+4180 full houses
+144766 flushes.
+-> admist those, hero wins 12170, opponent wins 132596.
+You win 363056 rounds.
+----Rates----
+Opponent full house rate: 0.836%.
+Opponent quads rate: 0.0336%.
+Opponent flush rate: 28.953200000000002%.
+When opponent has flush, My flush_and_win rate: 8.406670074465%
+Total win rate: 72.6112%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345829 no-paired board, that is 69.1658%.
+There are 154171 single-paired board, that is 30.8342%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+158 quads.
+4213 full houses
+145114 flushes.
+-> admist those, hero wins 12207, opponent wins 132907.
+You win 362722 rounds.
+----Rates----
+Opponent full house rate: 0.8425999999999999%.
+Opponent quads rate: 0.031599999999999996%.
+Opponent flush rate: 29.0228%.
+When opponent has flush, My flush_and_win rate: 8.412007111650151%
+Total win rate: 72.5444%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346674 no-paired board, that is 69.3348%.
+There are 153326 single-paired board, that is 30.6652%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+149 quads.
+4221 full houses
+144637 flushes.
+-> admist those, hero wins 12232, opponent wins 132405.
+You win 363225 rounds.
+----Rates----
+Opponent full house rate: 0.8442%.
+Opponent quads rate: 0.029799999999999997%.
+Opponent flush rate: 28.9274%.
+When opponent has flush, My flush_and_win rate: 8.457033815690314%
+Total win rate: 72.64500000000001%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345843 no-paired board, that is 69.1686%.
+There are 154157 single-paired board, that is 30.8314%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+141 quads.
+4174 full houses
+145244 flushes.
+-> admist those, hero wins 12208, opponent wins 133036.
+You win 362649 rounds.
+----Rates----
+Opponent full house rate: 0.8348%.
+Opponent quads rate: 0.028200000000000003%.
+Opponent flush rate: 29.048800000000004%.
+When opponent has flush, My flush_and_win rate: 8.405166478477597%
+Total win rate: 72.5298%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346520 no-paired board, that is 69.304%.
+There are 153480 single-paired board, that is 30.696%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+178 quads.
+4164 full houses
+144807 flushes.
+-> admist those, hero wins 12004, opponent wins 132803.
+You win 362855 rounds.
+----Rates----
+Opponent full house rate: 0.8328%.
+Opponent quads rate: 0.0356%.
+Opponent flush rate: 28.961399999999998%.
+When opponent has flush, My flush_and_win rate: 8.28965450565235%
+Total win rate: 72.571%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345943 no-paired board, that is 69.1886%.
+There are 154057 single-paired board, that is 30.8114%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+156 quads.
+4167 full houses
+144629 flushes.
+-> admist those, hero wins 12237, opponent wins 132392.
+You win 363285 rounds.
+----Rates----
+Opponent full house rate: 0.8333999999999999%.
+Opponent quads rate: 0.0312%.
+Opponent flush rate: 28.925800000000002%.
+When opponent has flush, My flush_and_win rate: 8.46095872888563%
+Total win rate: 72.65700000000001%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346315 no-paired board, that is 69.263%.
+There are 153685 single-paired board, that is 30.737%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+170 quads.
+4193 full houses
+144609 flushes.
+-> admist those, hero wins 12217, opponent wins 132392.
+You win 363245 rounds.
+----Rates----
+Opponent full house rate: 0.8385999999999999%.
+Opponent quads rate: 0.034%.
+Opponent flush rate: 28.921799999999998%.
+When opponent has flush, My flush_and_win rate: 8.448298515306792%
+Total win rate: 72.649%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346047 no-paired board, that is 69.2094%.
+There are 153953 single-paired board, that is 30.7906%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+158 quads.
+4204 full houses
+145495 flushes.
+-> admist those, hero wins 12322, opponent wins 133173.
+You win 362465 rounds.
+----Rates----
+Opponent full house rate: 0.8408000000000001%.
+Opponent quads rate: 0.031599999999999996%.
+Opponent flush rate: 29.099000000000004%.
+When opponent has flush, My flush_and_win rate: 8.469019553936562%
+Total win rate: 72.493%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346355 no-paired board, that is 69.271%.
+There are 153645 single-paired board, that is 30.729%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+163 quads.
+4252 full houses
+144668 flushes.
+-> admist those, hero wins 12094, opponent wins 132574.
+You win 363011 rounds.
+----Rates----
+Opponent full house rate: 0.8503999999999999%.
+Opponent quads rate: 0.032600000000000004%.
+Opponent flush rate: 28.9336%.
+When opponent has flush, My flush_and_win rate: 8.359830784969724%
+Total win rate: 72.6022%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346491 no-paired board, that is 69.2982%.
+There are 153509 single-paired board, that is 30.7018%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+139 quads.
+4155 full houses
+146033 flushes.
+-> admist those, hero wins 12120, opponent wins 133913.
+You win 361793 rounds.
+----Rates----
+Opponent full house rate: 0.831%.
+Opponent quads rate: 0.0278%.
+Opponent flush rate: 29.206599999999998%.
+When opponent has flush, My flush_and_win rate: 8.299493949997604%
+Total win rate: 72.3586%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-7-3
+how many rounds? 500000
+force the hero to draw a card? enter here: 3
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345864 no-paired board, that is 69.1728%.
+There are 154136 single-paired board, that is 30.8272%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+157 quads.
+4352 full houses
+144786 flushes.
+-> admist those, hero wins 0, opponent wins 144786.
+You win 350705 rounds.
+----Rates----
+Opponent full house rate: 0.8704%.
+Opponent quads rate: 0.0314%.
+Opponent flush rate: 28.9572%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 70.14099999999999%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346623 no-paired board, that is 69.3246%.
+There are 153377 single-paired board, that is 30.6754%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+155 quads.
+4190 full houses
+144955 flushes.
+-> admist those, hero wins 0, opponent wins 144955.
+You win 350700 rounds.
+----Rates----
+Opponent full house rate: 0.8380000000000001%.
+Opponent quads rate: 0.031%.
+Opponent flush rate: 28.991%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 70.14%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345789 no-paired board, that is 69.1578%.
+There are 154211 single-paired board, that is 30.8422%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+143 quads.
+4168 full houses
+145045 flushes.
+-> admist those, hero wins 0, opponent wins 145045.
+You win 350644 rounds.
+----Rates----
+Opponent full house rate: 0.8336%.
+Opponent quads rate: 0.0286%.
+Opponent flush rate: 29.009%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 70.1288%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346190 no-paired board, that is 69.238%.
+There are 153810 single-paired board, that is 30.762%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+152 quads.
+4204 full houses
+144794 flushes.
+-> admist those, hero wins 0, opponent wins 144794.
+You win 350850 rounds.
+----Rates----
+Opponent full house rate: 0.8408000000000001%.
+Opponent quads rate: 0.030400000000000003%.
+Opponent flush rate: 28.9588%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 70.17%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346032 no-paired board, that is 69.2064%.
+There are 153968 single-paired board, that is 30.7936%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+164 quads.
+4146 full houses
+145009 flushes.
+-> admist those, hero wins 0, opponent wins 145009.
+You win 350681 rounds.
+----Rates----
+Opponent full house rate: 0.8292%.
+Opponent quads rate: 0.0328%.
+Opponent flush rate: 29.0018%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 70.1362%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346092 no-paired board, that is 69.2184%.
+There are 153908 single-paired board, that is 30.7816%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+151 quads.
+4151 full houses
+145162 flushes.
+-> admist those, hero wins 0, opponent wins 145162.
+You win 350536 rounds.
+----Rates----
+Opponent full house rate: 0.8302%.
+Opponent quads rate: 0.0302%.
+Opponent flush rate: 29.032400000000003%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 70.1072%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346399 no-paired board, that is 69.2798%.
+There are 153601 single-paired board, that is 30.7202%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+172 quads.
+4174 full houses
+145254 flushes.
+-> admist those, hero wins 0, opponent wins 145254.
+You win 350400 rounds.
+----Rates----
+Opponent full house rate: 0.8348%.
+Opponent quads rate: 0.0344%.
+Opponent flush rate: 29.0508%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 70.08%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346031 no-paired board, that is 69.2062%.
+There are 153969 single-paired board, that is 30.7938%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+180 quads.
+4044 full houses
+145336 flushes.
+-> admist those, hero wins 0, opponent wins 145336.
+You win 350440 rounds.
+----Rates----
+Opponent full house rate: 0.8088%.
+Opponent quads rate: 0.036000000000000004%.
+Opponent flush rate: 29.0672%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 70.088%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346528 no-paired board, that is 69.3056%.
+There are 153472 single-paired board, that is 30.6944%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+158 quads.
+4222 full houses
+144205 flushes.
+-> admist those, hero wins 0, opponent wins 144205.
+You win 351415 rounds.
+----Rates----
+Opponent full house rate: 0.8444%.
+Opponent quads rate: 0.031599999999999996%.
+Opponent flush rate: 28.841%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 70.283%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346033 no-paired board, that is 69.2066%.
+There are 153967 single-paired board, that is 30.7934%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+152 quads.
+4206 full houses
+145214 flushes.
+-> admist those, hero wins 0, opponent wins 145214.
+You win 350428 rounds.
+----Rates----
+Opponent full house rate: 0.8412%.
+Opponent quads rate: 0.030400000000000003%.
+Opponent flush rate: 29.042800000000003%.
+When opponent has flush, My flush_and_win rate: 0.0%
+Total win rate: 70.0856%.
+
+-----over-----
+====================================================================
+....................................................................
+====================================================================
+#M-7-N
+how many rounds? 500000
+force the hero to draw a card? enter here:  
+how many times do you want to run the entire thing?10
+Running 10 times......
+Run 1
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346631 no-paired board, that is 69.3262%.
+There are 153369 single-paired board, that is 30.6738%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+161 quads.
+4206 full houses
+144635 flushes.
+-> admist those, hero wins 94555, opponent wins 50080.
+You win 445553 rounds.
+----Rates----
+Opponent full house rate: 0.8412%.
+Opponent quads rate: 0.0322%.
+Opponent flush rate: 28.927000000000003%.
+When opponent has flush, My flush_and_win rate: 65.37490925432986%
+Total win rate: 89.11059999999999%.
+
+Run 2
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345777 no-paired board, that is 69.1554%.
+There are 154223 single-paired board, that is 30.8446%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+149 quads.
+4361 full houses
+144947 flushes.
+-> admist those, hero wins 95213, opponent wins 49734.
+You win 445756 rounds.
+----Rates----
+Opponent full house rate: 0.8722000000000001%.
+Opponent quads rate: 0.029799999999999997%.
+Opponent flush rate: 28.9894%.
+When opponent has flush, My flush_and_win rate: 65.68814808171263%
+Total win rate: 89.1512%.
+
+Run 3
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 345937 no-paired board, that is 69.1874%.
+There are 154063 single-paired board, that is 30.8126%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+165 quads.
+4340 full houses
+144883 flushes.
+-> admist those, hero wins 95120, opponent wins 49763.
+You win 445732 rounds.
+----Rates----
+Opponent full house rate: 0.868%.
+Opponent quads rate: 0.033%.
+Opponent flush rate: 28.9766%.
+When opponent has flush, My flush_and_win rate: 65.65297515926645%
+Total win rate: 89.1464%.
+
+Run 4
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346431 no-paired board, that is 69.2862%.
+There are 153569 single-paired board, that is 30.7138%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+149 quads.
+4227 full houses
+144779 flushes.
+-> admist those, hero wins 94228, opponent wins 50551.
+You win 445073 rounds.
+----Rates----
+Opponent full house rate: 0.8453999999999999%.
+Opponent quads rate: 0.029799999999999997%.
+Opponent flush rate: 28.955799999999996%.
+When opponent has flush, My flush_and_win rate: 65.0840246168298%
+Total win rate: 89.0146%.
+
+Run 5
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346458 no-paired board, that is 69.2916%.
+There are 153542 single-paired board, that is 30.7084%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+150 quads.
+4230 full houses
+145125 flushes.
+-> admist those, hero wins 95309, opponent wins 49816.
+You win 445804 rounds.
+----Rates----
+Opponent full house rate: 0.8460000000000001%.
+Opponent quads rate: 0.03%.
+Opponent flush rate: 29.025000000000002%.
+When opponent has flush, My flush_and_win rate: 65.67372954349699%
+Total win rate: 89.1608%.
+
+Run 6
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346041 no-paired board, that is 69.2082%.
+There are 153959 single-paired board, that is 30.7918%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+164 quads.
+4148 full houses
+144949 flushes.
+-> admist those, hero wins 94995, opponent wins 49954.
+You win 445734 rounds.
+----Rates----
+Opponent full house rate: 0.8296%.
+Opponent quads rate: 0.0328%.
+Opponent flush rate: 28.9898%.
+When opponent has flush, My flush_and_win rate: 65.53684399340457%
+Total win rate: 89.1468%.
+
+Run 7
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346568 no-paired board, that is 69.3136%.
+There are 153432 single-paired board, that is 30.6864%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+148 quads.
+4303 full houses
+144536 flushes.
+-> admist those, hero wins 94515, opponent wins 50021.
+You win 445528 rounds.
+----Rates----
+Opponent full house rate: 0.8606%.
+Opponent quads rate: 0.029599999999999998%.
+Opponent flush rate: 28.9072%.
+When opponent has flush, My flush_and_win rate: 65.39201306248962%
+Total win rate: 89.1056%.
+
+Run 8
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346320 no-paired board, that is 69.264%.
+There are 153680 single-paired board, that is 30.736%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+153 quads.
+4077 full houses
+145085 flushes.
+-> admist those, hero wins 94704, opponent wins 50381.
+You win 445389 rounds.
+----Rates----
+Opponent full house rate: 0.8154%.
+Opponent quads rate: 0.030600000000000002%.
+Opponent flush rate: 29.017%.
+When opponent has flush, My flush_and_win rate: 65.27483888754868%
+Total win rate: 89.0778%.
+
+Run 9
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346541 no-paired board, that is 69.3082%.
+There are 153459 single-paired board, that is 30.6918%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+158 quads.
+4152 full houses
+144931 flushes.
+-> admist those, hero wins 94824, opponent wins 50107.
+You win 445583 rounds.
+----Rates----
+Opponent full house rate: 0.8304%.
+Opponent quads rate: 0.031599999999999996%.
+Opponent flush rate: 28.9862%.
+When opponent has flush, My flush_and_win rate: 65.42699629478855%
+Total win rate: 89.1166%.
+
+Run 10
+
+======================
+
+A total of 500000 rounds of cards were drawn.
+There are 346668 no-paired board, that is 69.3336%.
+There are 153332 single-paired board, that is 30.6664%.
+There are 0 two-paired board, that is 0.0%.
+There are 0 board trips, that is 0.0%.
+---Admist those rounds, opponents drew---
+140 quads.
+4182 full houses
+144646 flushes.
+-> admist those, hero wins 94673, opponent wins 49973.
+You win 445705 rounds.
+----Rates----
+Opponent full house rate: 0.8364%.
+Opponent quads rate: 0.027999999999999997%.
+Opponent flush rate: 28.929199999999998%.
+When opponent has flush, My flush_and_win rate: 65.4515161152054%
+Total win rate: 89.141%.
+
+-----over-----
