@@ -3,7 +3,7 @@ import random
 import math
 a_suit = [2, 3, 4, 5, 6, 7, 8, 9, 10, "J", "Q", "K", "A"]
 
-SUIT_TO_EMOJI = {
+Suitemoji = {
     "spade": "♠️",
     "club": "♣️",
     "heart": "♥️",
@@ -13,25 +13,21 @@ SUIT_TO_EMOJI = {
 
 def build_deck():
     deck = []
-    for suit, emoji in SUIT_TO_EMOJI.items():
+    for suit, emoji in Suitemoji.items():
         for num in a_suit:
             deck.append({"num": num, "emoji": emoji, "suit": suit})
     return deck
 
 
 def draw_random_card(deck, suit=None, exclude_suit=None):
-    candidates = []
+    potent = []
     for card in deck:
         if suit is not None and card["suit"] != suit:
             continue
         if exclude_suit is not None and card["suit"] == exclude_suit:
             continue
-        candidates.append(card)
-
-    if len(candidates) == 0:
-        raise ValueError("No available card matches draw condition")
-
-    card = random.choice(candidates)
+        potent.append(card)
+    card = random.choice(potent)
     deck.remove(card)
     return card
 
@@ -52,8 +48,6 @@ def draw_hand(deck, suit, a_card):
                 if item["suit"] == suit and item["num"] == a_card:
                     fixed_card = item
                     break
-            if fixed_card is None:
-                raise ValueError("Fixed card is not available in deck")
             my_card_1 = fixed_card
             deck.remove(my_card_1)
             if my_card_1 is not None:
@@ -64,21 +58,25 @@ def draw_hand(deck, suit, a_card):
 
 def draw_community_cards(deck, suit, amount):
     if suit != "" and amount != "":
-        suited_pool = [item for item in deck if item["suit"] == suit]
-        off_suit_pool = [item for item in deck if item["suit"] != suit]
-        remaining = 5 - amount
-        if len(suited_pool) < amount or len(off_suit_pool) < remaining:
-            raise ValueError("Not enough cards to build constrained community board")
-
-        suited_cards = random.sample(suited_pool, amount)
-        off_suit_cards = random.sample(off_suit_pool, remaining)
+        suited = []
+        not_suited = []
+        for item in deck:
+            if item["suit"] == suit:
+                suited.append(item)
+            else:
+                not_suited.append(item)
+        remain = 5 - amount
+        suited_cards = random.sample(suited, amount)
+        off_suit_cards = random.sample(not_suited, remain)
         card_list = suited_cards + off_suit_cards
         for item in card_list:
             deck.remove(item)
         random.shuffle(card_list)
         return card_list
     else:
-        card_list = [draw_random_card(deck) for _ in range(5)]
+        card_list = []
+        for _ in range(5):
+            card_list.append(draw_random_card(deck))
         return card_list
 
 # print(draw_hand_and_community_cards("heart"))
